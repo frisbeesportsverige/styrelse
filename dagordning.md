@@ -12,8 +12,8 @@ Förslag på datum för styrelsemöten för 2017 års styrelse:
 * 23/5
 * 13/6
 * 4/7
-* 15/8 - Utbetalning till GF (förutsatt att statsanslag betalats ut)
-* 12/9
+* 15/8 - Utbetalning till GF (förutsatt att statsanslag betalats ut), Genomgång av utvecklingsplan från GF
+* 12/9 - Beslut utvecklingsplan
 * 10/10
 * 14/11 - Utbetalning till GF (förutsatt att statsanslag betalats ut)
 * 12/12
