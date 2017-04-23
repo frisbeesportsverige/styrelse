@@ -46,7 +46,7 @@ För att säkerställa att samverkan mellan grenförbunds styrelsen (GFS) och FS
 1. BESLUT: Arbetsformer FS (webexmöten vs fysiska, material inför beslut, Google Docs istället för att maila filer, elektroniska signaturer)
 1. Datum för FS möten
 1. Koordinering med GF (-20:15)
-1. Genomgång av verksamhetsplan och budget 2017 (20:15-20:25)
+1. Status arbete med fördelningsnyckel och genomgång av verksamhetsplan och budget 2017 (20:15-20:25)
 1. Idrottslyft (20:25-20:45 min)
 1. BESLUT: Kontraktering av föreningskonsulent (20:45-21:00)
 1. BESLUT: Utbetalning till GF (förutsatt att statsanslag betalats ut) (21:00-21:10)
