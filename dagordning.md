@@ -9,8 +9,8 @@ FS har planerade möten c:a en gång per månad (ytterligare möten läggs in vi
 Förslag på datum för styrelsemöten för 2017 års styrelse:
 * Konstituerande möte 23/4 - Arbetsformer FS
 * 25/4 20:00-21:30 - Idrottslyft, Anställning av föreningskonsulent, Utbetalning till GF (förutsatt att statsanslag betalats ut), Arbetsbeskrivning kansliet
-* 23/5
-* 13/6
+* 23/5 20:00-21:30 - Påbörja arbeta med uppdaterad plan mot doping och matchfixing
+* 13/6 - Påbörja arbete med Strategisk plan
 * 4/7
 * 15/8 - Utbetalning till GF (förutsatt att statsanslag betalats ut), Genomgång av utvecklingsplan från GF
 * 12/9 - Beslut utvecklingsplan
@@ -48,22 +48,22 @@ För att säkerställa att samverkan mellan grenförbunds styrelsen (GFS) och FS
 1. Mötets avslutande
 
 
-## Dagordning FS-möte 25/5
+## Dagordning FS-möte 25/5 20:00-21:30
 
 1. Mötets öppnande
 1. Val av mötesordförande
 1. Val av mötesekreterare
 1. Val av justeringsman
 1. Godkännande av dagordning
-1. Kanslirapport
-1. Idrottslyft
-1. BESLUT: Anställning av föreningskonsulent
-1. BESLUT: Utbetalning till GF (förutsatt att statsanslag betalats ut), Arbetsbeskrivning kansliet
-1. Arbetsbeskrivning kansliet
-1. Idrottslyftet
+1. Kanslirapport (-20:15)
+1. Genomgång av verksamhetsplan och budget 2017 (20:15-20:25)
+1. Idrottslyft (20:25-20:45 min)
+1. BESLUT: Anställning av föreningskonsulent (20:45-21:00)
+1. BESLUT: Utbetalning till GF (förutsatt att statsanslag betalats ut) (21:00-21:10)
+1. Arbetsbeskrivning kansliet (21:10-21:25)
 1. Övrigt
 1. Nästa möte
-1. Mötets avslutande
+1. Mötets avslutande (-21:30)
 
 
 ## Mall dagordningar planerade FS-möten
