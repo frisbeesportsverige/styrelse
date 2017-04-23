@@ -7,9 +7,8 @@ FS har planerade möten c:a en gång per månad (ytterligare möten läggs in vi
 ### Datum FS Möten och huvudpunkter
 
 Förslag på datum för styrelsemöten för 2017 års styrelse:
-* Konstituerande möte 23/4 - Arbetsformer FS
-* 25/4 20:00-21:30 - Idrottslyft, Anställning av föreningskonsulent, Utbetalning till GF (förutsatt att statsanslag betalats ut), Arbetsbeskrivning kansliet
-* 23/5 20:00-21:30 - Påbörja arbeta med uppdaterad plan mot doping och matchfixing (enl. verksamhetsplan 2017)
+* 25/4 20:00-21:30 - Konstituerande, Arbetsformer FS, Idrottslyft, Anställning av föreningskonsulent, Utbetalning till GF (förutsatt att statsanslag betalats ut)
+* 23/5 20:00-21:30 - Arbetsbeskrivning kansliet, Påbörja arbeta med uppdaterad plan mot doping och matchfixing (enl. verksamhetsplan 2017)
 * 13/6 - Påbörja arbete med Strategisk plan (enl. verksamhetsplan 2017)
 * 4/7 - Påbörja arbete med Förbättrat stöd till föreningar (enl. verksamhetsplan 2017)
 * 15/8 - Utbetalning till GF (förutsatt att statsanslag betalats ut), Genomgång av utvecklingsplan från GF
@@ -65,6 +64,7 @@ För att säkerställa att samverkan mellan grenförbunds styrelsen (GFS) och FS
 1. Godkännande av dagordning
 1. Kanslirapport
 1. Arbetsbeskrivning kansliet
+1. Påbörja arbeta med uppdaterad plan mot doping och matchfixing (enl. verksamhetsplan 2017)
 1. Uppdatering WFDF medlemskap
 1. Övrigt
 1. Nästa möte
