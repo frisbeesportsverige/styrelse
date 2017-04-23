@@ -30,7 +30,7 @@ För att säkerställa att samverkan mellan grenförbunds styrelsen (GFS) och FS
 * 16/8
 * 11/10
 * 13/12
-* 13/3
+* 14/2
 
 # Dagordningar
 
