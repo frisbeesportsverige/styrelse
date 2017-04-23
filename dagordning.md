@@ -44,7 +44,8 @@ För att säkerställa att samverkan mellan grenförbunds styrelsen (GFS) och FS
 1. BESLUT: Konstituerande (val av vice ordf & kassör)
 1. BESLUT: Firmatecknare (Förslag: Beslöts att X (personnr), Y (personnr) och Z (personnr) äger rätt att teckna föreningen, gemensamt två i förening.)
 1. BESLUT: Arbetsformer FS (webexmöten vs fysiska, material inför beslut, Google Docs istället för att maila filer, elektroniska signaturer)
-1. Datum för möten (-20:15)
+1. Datum för FS möten
+1. Koordinering med GF (-20:15)
 1. Genomgång av verksamhetsplan och budget 2017 (20:15-20:25)
 1. Idrottslyft (20:25-20:45 min)
 1. BESLUT: Anställning av föreningskonsulent (20:45-21:00)
