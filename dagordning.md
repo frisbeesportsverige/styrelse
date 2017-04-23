@@ -1,0 +1,79 @@
+# Dagordningar möten
+
+FS har planerade möten c:a en gång per månad (ytterligare möten läggs in vid behov). Dagordningen för möten kommer att finnas här en vecka innan mötet. Underlag för beslutat ska  mailas till styrelsen@frisbeesport.se en vecka innan mötet av den som utsetts som ansvarig.
+
+## Datum för möten
+
+### Datum FS Möten
+
+Förslag på datum för styrelsemöten för 2017 års styrelse:
+* Konstituerande möte 23/4
+* 25/4 20:00-21:30 - arbetsrutiner i styrelsen och idrottslyft
+* 23/5
+* 13/6
+* 4/7
+* 15/8
+* 12/9
+* 10/10
+* 14/11
+* 12/12
+* 9/1
+* 13/2
+* 13/3
+
+### Datum Koordineringsmöten med GF
+
+För att säkerställa att samverkan mellan grenförbunds styrelsen (GFS) och FS fungerar på ett bra sätt hålls återkommande möten. Två viktiga delar är arbetet med idrottslyftet och att styrning av kansliet fungerar på ett bra sätt. Förslag på datum:
+
+* 2/5 20:00-21:30 - idrottslyft (måste säkerställa att GF kan denna tid)
+* 14/6
+* 16/8
+* 11/10
+* 13/12
+* 13/3
+
+# Dagordningar
+
+## Dagordning FS-möte 23/5
+
+1. Mötets öppnande
+1. Val av mötesordförande
+1. Val av mötesekreterare
+1. Val av justeringsman
+1. Godkännande av dagordning
+1. Konstituerande (val av vice ordf & kassör)
+1. Firmatecknare (Förslag: Beslöts att X, Y och Z äger rätt att teckna föreningen, gemensamt två i förening.)
+1. Arbetsformer FS (webexmöten vs fysiska, Google Docs istället för att maila filer, elektroniska signaturer)
+1. Datum för möten
+1. Mötets avslutande
+
+## Dagordning FS-möte 25/5
+
+1. Mötets öppnande
+1. Val av mötesordförande
+1. Val av mötesekreterare
+1. Val av justeringsman
+1. Godkännande av dagordning
+1. Kanslirapport
+1. Idrottslyftet
+1. Övrigt
+1. Nästa möte
+1. Mötets avslutande
+
+
+## Mall dagordningar planerade FS-möten
+
+1. Mötets öppnande
+1. Val av mötesordförande
+1. Val av mötesekreterare
+1. Val av justeringsman
+1. Godkännande av dagordning
+1. Kanslirapport
+1. ...
+1. Övrigt
+1. Nästa möte
+1. Mötets avslutande
+
+
+
+
