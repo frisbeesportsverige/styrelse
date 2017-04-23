@@ -8,17 +8,17 @@ FS har planerade möten c:a en gång per månad (ytterligare möten läggs in vi
 
 Förslag på datum för styrelsemöten för 2017 års styrelse:
 * Konstituerande möte 23/4
-* 25/4 20:00-21:30 - arbetsrutiner i styrelsen och idrottslyft
+* 25/4 20:00-21:30 - arbetsrutiner i styrelsen, idrottslyft, Utbetalning till GF (förutsatt att statsanslag betalats ut)
 * 23/5
 * 13/6
 * 4/7
-* 15/8
+* 15/8 - Utbetalning till GF (förutsatt att statsanslag betalats ut)
 * 12/9
 * 10/10
-* 14/11
+* 14/11 - Utbetalning till GF (förutsatt att statsanslag betalats ut)
 * 12/12
 * 9/1
-* 13/2
+* 13/2 - Utbetalning till GF (förutsatt att statsanslag betalats ut)
 * 13/3
 
 ### Datum Koordineringsmöten med GF
