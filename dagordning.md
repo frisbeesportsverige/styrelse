@@ -41,11 +41,12 @@ För att säkerställa att samverkan mellan grenförbunds styrelsen (GFS) och FS
 1. Val av mötesekreterare
 1. Val av justeringsman
 1. Godkännande av dagordning
-1. Konstituerande (val av vice ordf & kassör)
-1. Firmatecknare (Förslag: Beslöts att X, Y och Z äger rätt att teckna föreningen, gemensamt två i förening.)
-1. Arbetsformer FS (webexmöten vs fysiska, Google Docs istället för att maila filer, elektroniska signaturer)
+1. BESLUT: Konstituerande (val av vice ordf & kassör)
+1. BESLUT: Firmatecknare (Förslag: Beslöts att X (personnr), Y (personnr) och Z (personnr) äger rätt att teckna föreningen, gemensamt två i förening.)
+1. BESLUT: Arbetsformer FS (webexmöten vs fysiska, Google Docs istället för att maila filer, elektroniska signaturer)
 1. Datum för möten
 1. Mötets avslutande
+
 
 ## Dagordning FS-möte 25/5
 
@@ -55,6 +56,7 @@ För att säkerställa att samverkan mellan grenförbunds styrelsen (GFS) och FS
 1. Val av justeringsman
 1. Godkännande av dagordning
 1. Kanslirapport
+1. BESLUT: Arbetsbeskrivning kansliet
 1. Idrottslyftet
 1. Övrigt
 1. Nästa möte
