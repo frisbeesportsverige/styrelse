@@ -43,7 +43,7 @@ För att säkerställa att samverkan mellan grenförbunds styrelsen (GFS) och FS
 1. Godkännande av dagordning
 1. BESLUT: Konstituerande (val av vice ordf & kassör)
 1. BESLUT: Firmatecknare (Förslag: Beslöts att X (personnr), Y (personnr) och Z (personnr) äger rätt att teckna föreningen, gemensamt två i förening.)
-1. BESLUT: Arbetsformer FS (webexmöten vs fysiska, Google Docs istället för att maila filer, elektroniska signaturer)
+1. BESLUT: Arbetsformer FS (webexmöten vs fysiska, material inför beslut, Google Docs istället för att maila filer, elektroniska signaturer)
 1. Datum för möten
 1. Mötets avslutande
 
