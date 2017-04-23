@@ -4,7 +4,7 @@ FS har planerade möten c:a en gång per månad (ytterligare möten läggs in vi
 
 ## Datum för möten
 
-### Datum FS Möten
+### Datum FS Möten och huvudpunkter
 
 Förslag på datum för styrelsemöten för 2017 års styrelse:
 * Konstituerande möte 23/4 - Arbetsformer FS
