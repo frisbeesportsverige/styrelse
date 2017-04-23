@@ -17,8 +17,8 @@ Förslag på datum för styrelsemöten för 2017 års styrelse:
 * 10/10 - Tidslinje årsmöte 2018 samt fördelning av arbetsuppgifter (budget, verksamhetsplan etc.)
 * 14/11 - Genomgång material årsmöte 2018
 * 12/12 - Prognos ekonomiskt utfall 2017, Sista utbetalning till GF för 2017 (förutsatt att statsanslag betalats ut), 
-* 9/1 - Beslut material årsmöte 2018
-* 13/2 - Genomgång revisionsberättelse, Första utbetalning till GF för 2018 (förutsatt att statsanslag betalats ut)
+* 9/1 - Genomgång inför bokslut, Beslut material årsmöte 2018
+* 13/2 - Genomgång bokslut och revisionsberättelse, Första utbetalning till GF för 2018 (förutsatt att statsanslag betalats ut)
 * 13/3 - Slutgiltig fördelningsnyckel för 2017. Korrigering utbetalningar GF
 
 ### Datum Koordineringsmöten med GF
