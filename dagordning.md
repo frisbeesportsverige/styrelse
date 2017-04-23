@@ -34,7 +34,7 @@ För att säkerställa att samverkan mellan grenförbunds styrelsen (GFS) och FS
 
 # Dagordningar
 
-## Dagordning FS-möte 23/5
+## Dagordning FS-möte 25/4 20:00-21:30
 
 1. Mötets öppnande
 1. Val av mötesordförande
@@ -44,26 +44,29 @@ För att säkerställa att samverkan mellan grenförbunds styrelsen (GFS) och FS
 1. BESLUT: Konstituerande (val av vice ordf & kassör)
 1. BESLUT: Firmatecknare (Förslag: Beslöts att X (personnr), Y (personnr) och Z (personnr) äger rätt att teckna föreningen, gemensamt två i förening.)
 1. BESLUT: Arbetsformer FS (webexmöten vs fysiska, material inför beslut, Google Docs istället för att maila filer, elektroniska signaturer)
-1. Datum för möten
-1. Mötets avslutande
+1. Datum för möten (-20:15)
+1. Genomgång av verksamhetsplan och budget 2017 (20:15-20:25)
+1. Idrottslyft (20:25-20:45 min)
+1. BESLUT: Anställning av föreningskonsulent (20:45-21:00)
+1. BESLUT: Utbetalning till GF (förutsatt att statsanslag betalats ut) (21:00-21:10)
+1. REMINDER 3 - WFDF: Congress votes on new membership applications – proposals 2017/3, 4, 5 and 6
+1. Övrigt
+1. Nästa möte
+1. Mötets avslutande (-21:30)
 
 
-## Dagordning FS-möte 25/5 20:00-21:30
+## Dagordning FS-möte 23/5 20:00-21:30
 
 1. Mötets öppnande
 1. Val av mötesordförande
 1. Val av mötesekreterare
 1. Val av justeringsman
 1. Godkännande av dagordning
-1. Kanslirapport (-20:15)
-1. Genomgång av verksamhetsplan och budget 2017 (20:15-20:25)
-1. Idrottslyft (20:25-20:45 min)
-1. BESLUT: Anställning av föreningskonsulent (20:45-21:00)
-1. BESLUT: Utbetalning till GF (förutsatt att statsanslag betalats ut) (21:00-21:10)
-1. Arbetsbeskrivning kansliet (21:10-21:25)
+1. Kanslirapport
+1. Arbetsbeskrivning kansliet
 1. Övrigt
 1. Nästa möte
-1. Mötets avslutande (-21:30)
+1. Mötets avslutande
 
 
 ## Mall dagordningar planerade FS-möten
@@ -74,7 +77,7 @@ För att säkerställa att samverkan mellan grenförbunds styrelsen (GFS) och FS
 1. Val av justeringsman
 1. Godkännande av dagordning
 1. Kanslirapport
-1. BESLUT: Arbetsbeskrivning kansliet
+1. ...
 1. Övrigt
 1. Nästa möte
 1. Mötets avslutande
