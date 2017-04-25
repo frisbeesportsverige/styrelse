@@ -24,8 +24,8 @@ Förslag på beslutspunkter och viktiga informationspunkter för styrelsemöten 
 
 
 Förslag på datum:
-* FS Möte 1 - X/4 20:00-20:30
-* FS Möte 2 - X/4 20:30-21:30
+* FS Möte 1 - 2/5 20:00-20:30
+* FS Möte 2 - 2/5 20:30-21:30
 * FS Möte 3 - 23/5 20:00-21:30
 * FS Möte 4 - 13/6
 * FS Möte 5 - 4/7
@@ -57,7 +57,7 @@ För att säkerställa att samverkan mellan grenförbunds styrelsen (GFS) och FS
 * WFDF Congress, which will be held on Saturday, 24 June 2017, on the occasion of the WCBU 2017 in Royan, France.
 
 
-## Dagordning FS-möte 1 - X/4 20:00-20:30
+## Dagordning FS-möte 1
 
 1. Mötets öppnande
 1. Val av mötesordförande
@@ -66,18 +66,18 @@ För att säkerställa att samverkan mellan grenförbunds styrelsen (GFS) och FS
 1. Godkännande av dagordning
 1. BESLUT: Konstituerande (val av vice ordf & kassör)
 1. BESLUT: Firmatecknare (Förslag: Beslöts att X (personnr), Y (personnr) och Z (personnr) äger rätt att teckna föreningen, gemensamt två i förening.)
-1. BESLUT: Arbetsformer FS (webexmöten vs fysiska, material inför beslut, Google Docs istället för att maila filer, elektroniska signaturer)
 1. Datum för FS möten
-1. Mötets avslutande (-20:30)
+1. Mötets avslutande (-20:15)
 
 
-## Dagordning FS-möte 2- X/4 20:30-21:30
+## Dagordning FS-möte 2
 
-1. Mötets öppnande (20:30)
+1. Mötets öppnande (20:15)
 1. Val av mötesordförande
 1. Val av mötesekreterare
 1. Val av justeringsman
 1. Godkännande av dagordning
+1. BESLUT: Arbetsformer FS (webexmöten vs fysiska, material inför beslut, Google Docs istället för att maila filer, elektroniska signaturer) (20:15-20:40)
 1. Koordinering med GF (20:40-20:45)
 1. Information Idrottslyft (20:45-20:50 min)
 1. Status arbete med fördelningsnyckel och genomgång av verksamhetsplan och budget 2017 (20:50-21:15)
