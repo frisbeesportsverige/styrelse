@@ -6,25 +6,44 @@ FS har planerade möten c:a en gång per månad (ytterligare möten läggs in vi
 
 ### Datum FS Möten och huvudpunkter
 
-Förslag på datum för styrelsemöten för 2017 års styrelse:
-* 25/4 20:00-21:30 - Konstituerande, Arbetsformer FS, Idrottslyft, Anställning av föreningskonsulent, Utbetalning till GF (förutsatt att statsanslag betalats ut)
-* 23/5 20:00-21:30 - Arbetsbeskrivning kansliet, Påbörja arbeta med uppdaterad plan mot doping och matchfixing (enl. verksamhetsplan 2017)
-* 13/6 - Påbörja arbete med Strategisk plan (enl. verksamhetsplan 2017)
-* 4/7 - Påbörja arbete med Förbättrat stöd till föreningar (enl. verksamhetsplan 2017)
-* 15/8 - Utbetalning till GF (förutsatt att statsanslag betalats ut), Genomgång av utvecklingsplan från GF
-* 12/9 - Beslut utvecklingsplan
-* 10/10 - Tidslinje årsmöte 2018 samt fördelning av arbetsuppgifter (budget, verksamhetsplan etc.)
-* 14/11 - Genomgång material årsmöte 2018
-* 12/12 - Prognos ekonomiskt utfall 2017, Sista utbetalning till GF för 2017 (förutsatt att statsanslag betalats ut), 
-* 9/1 - Genomgång inför bokslut, Beslut material årsmöte 2018
-* 13/2 - Genomgång bokslut och revisionsberättelse, Första utbetalning till GF för 2018 (förutsatt att statsanslag betalats ut)
-* 13/3 - Slutgiltig fördelningsnyckel för 2017. Korrigering utbetalningar GF
+Förslag på beslutspunkter och viktiga informationspunkter för styrelsemöten för 2017 års styrelse:
+
+* FS Möte 1 - Konstituerande
+* FS Möte 2 - Arbetsformer FS, Anställning av föreningskonsulent, Utbetalning statsanslag till GF (förutsatt att statsanslag betalats ut)
+* FS Möte 3 - Arbetsbeskrivning kansliet, Utbetalning av överskott till GF
+* FS Möte 4 - Uppdaterad plan mot doping och matchfixing (enl. verksamhetsplan 2017)
+* FS Möte 5 - Strategisk plan (enl. verksamhetsplan 2017), 
+* FS Möte 6 - Förbättrat stöd till föreningar (enl. verksamhetsplan 2017), Utbetalning statsanslag till GF (förutsatt att statsanslag betalats ut), Genomgång av utvecklingsplan från GF
+* FS Möte 7 - Uppdatering av 3-årig utvecklingsplan för idrottslyft (baserat på input från GF)
+* FS Möte 8 - Tidslinje årsmöte 2018 samt fördelning av arbetsuppgifter (budget, verksamhetsplan etc.)
+* FS Möte 9 - Genomgång material årsmöte 2018
+* FS Möte 10 - Prognos ekonomiskt utfall 2017, Sista utbetalning statsanslag till GF för 2017 (förutsatt att statsanslag betalats ut), 
+* FS Möte 11- Genomgång inför bokslut, Reviderade stadgar
+* FS Möte 12 - Genomgång bokslut och revisionsberättelse, Material årsmöte 2018, Första utbetalning statsanslag till GF för 2018 (förutsatt att statsanslag betalats ut)
+* FS Möte 13 - Slutgiltig fördelningsnyckel för 2017. Korrigering utbetalningar GF
+
+
+Förslag på datum:
+* FS Möte 1 - X/4 20:00-20:30
+* FS Möte 2 - X/4 20:30-21:30
+* FS Möte 3 - 23/5 20:00-21:30
+* FS Möte 4 - 13/6
+* FS Möte 5 - 4/7
+* FS Möte 6 - 15/8
+* FS Möte 7 - 12/9
+* FS Möte 8 - 10/10
+* FS Möte 9 - 14/11
+* FS Möte 10 - 12/12
+* FS Möte 11 - 9/1
+* FS Möte 12 - 13/2
+* FS Möte 13 - 13/3 
+
 
 ### Datum Koordineringsmöten med GF
 
 För att säkerställa att samverkan mellan grenförbunds styrelsen (GFS) och FS fungerar på ett bra sätt hålls återkommande möten. Två viktiga delar är arbetet med idrottslyftet och att styrning av kansliet fungerar på ett bra sätt. Förslag på datum:
 
-* 2/5 20:00-21:30 - idrottslyft (måste säkerställa att GF kan denna tid)
+* 2/5 20:00-21:30 - Idrottslyft (måste säkerställa att GF kan denna tid)
 * 14/6
 * 16/8
 * 11/10
