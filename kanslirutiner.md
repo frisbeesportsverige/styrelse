@@ -1,7 +1,10 @@
 # Medlemsregister
 
 Det är viktigt att regisret över medlemsförenigar är uppdaterat inför 31/12 då röstlängen bestäms. 
-Styrelsen ska alltid informeras då föreningar läggs till och tas bort ur regisrtet.
+Styrelsen ska alltid informeras då föreningar läggs till och tas bort ur regisrtet. 
+
+En avstämnning av mailadresserna i Google Gruppen klubbmail@frisbeesport.se ska göras minst en gång per år.
+Ett bra tillfälle att göra detta är samtidigt som medlemsregisret uppdateras.
 
 
 # Officiell kommunikation
