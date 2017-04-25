@@ -16,9 +16,9 @@ Förslag på beslutspunkter och viktiga informationspunkter för styrelsemöten 
 * FS Möte 6 - Förbättrat stöd till föreningar (enl. verksamhetsplan 2017), Utbetalning statsanslag till GF (förutsatt att statsanslag betalats ut), Genomgång av utvecklingsplan från GF
 * FS Möte 7 - Uppdatering av 3-årig utvecklingsplan för idrottslyft (baserat på input från GF)
 * FS Möte 8 - Tidslinje årsmöte 2018 samt fördelning av arbetsuppgifter (budget, verksamhetsplan etc.)
-* FS Möte 9 - Genomgång material årsmöte 2018
+* FS Möte 9 - Arbete med årsmöteshandlingar
 * FS Möte 10 - Prognos ekonomiskt utfall 2017, Sista utbetalning statsanslag till GF för 2017 (förutsatt att statsanslag betalats ut), 
-* FS Möte 11- Genomgång inför bokslut, Reviderade stadgar
+* FS Möte 11- Genomgång inför bokslut, Revidering stadgar
 * FS Möte 12 - Genomgång bokslut och revisionsberättelse, Material årsmöte 2018, Första utbetalning statsanslag till GF för 2018 (förutsatt att statsanslag betalats ut)
 * FS Möte 13 - Slutgiltig fördelningsnyckel för 2017. Korrigering utbetalningar GF
 
