@@ -96,8 +96,9 @@ För att säkerställa att samverkan mellan grenförbunds styrelsen (GFS) och FS
 1. Val av justeringsman
 1. Godkännande av dagordning
 1. Kanslirapport
-1. Arbetsbeskrivning kansliet
+1. BESLUT: Arbetsbeskrivning kansliet
 1. BESLUT: Kontraktering av föreningskonsulent
+1. BESLUT: Utbetalning av överskott till GF
 1. Uppdatering WFDF medlemskap
 1. Övrigt
 1. Nästa möte
