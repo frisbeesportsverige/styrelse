@@ -52,7 +52,12 @@ För att säkerställa att samverkan mellan grenförbunds styrelsen (GFS) och FS
 
 # Dagordningar
 
-## Dagordning FS-möte 25/4 20:00-21:30
+## Punkter att lägga in:
+
+* WFDF Congress, which will be held on Saturday, 24 June 2017, on the occasion of the WCBU 2017 in Royan, France.
+
+
+## Dagordning FS-möte 1 - X/4 20:00-20:30
 
 1. Mötets öppnande
 1. Val av mötesordförande
@@ -63,18 +68,27 @@ För att säkerställa att samverkan mellan grenförbunds styrelsen (GFS) och FS
 1. BESLUT: Firmatecknare (Förslag: Beslöts att X (personnr), Y (personnr) och Z (personnr) äger rätt att teckna föreningen, gemensamt två i förening.)
 1. BESLUT: Arbetsformer FS (webexmöten vs fysiska, material inför beslut, Google Docs istället för att maila filer, elektroniska signaturer)
 1. Datum för FS möten
-1. Koordinering med GF (-20:15)
-1. Idrottslyft (20:15-20:35 min)
-1. Status arbete med fördelningsnyckel och genomgång av verksamhetsplan och budget 2017 (20:35-20:45)
-1. BESLUT: Kontraktering av föreningskonsulent (20:45-21:00)
-1. BESLUT: Utbetalning till GF (förutsatt att statsanslag betalats ut) (21:00-21:10)
+1. Mötets avslutande (-20:30)
+
+
+## Dagordning FS-möte 2- X/4 20:30-21:30
+
+1. Mötets öppnande (20:30)
+1. Val av mötesordförande
+1. Val av mötesekreterare
+1. Val av justeringsman
+1. Godkännande av dagordning
+1. Koordinering med GF (20:40-20:45)
+1. Information Idrottslyft (20:45-20:50 min)
+1. Status arbete med fördelningsnyckel och genomgång av verksamhetsplan och budget 2017 (20:50-21:15)
+1. BESLUT: Utbetalning till GF (förutsatt att statsanslag betalats ut) (21:15-21:25)
 1. REMINDER 3 - WFDF: Congress votes on new membership applications – proposals 2017/3, 4, 5 and 6
 1. Övrigt
 1. Nästa möte
 1. Mötets avslutande (-21:30)
 
 
-## Dagordning FS-möte 23/5 20:00-21:30
+## Dagordning FS-möte 3 - 23/5 20:00-21:30
 
 1. Mötets öppnande
 1. Val av mötesordförande
@@ -83,7 +97,7 @@ För att säkerställa att samverkan mellan grenförbunds styrelsen (GFS) och FS
 1. Godkännande av dagordning
 1. Kanslirapport
 1. Arbetsbeskrivning kansliet
-1. Påbörja arbeta med uppdaterad plan mot doping och matchfixing (enl. verksamhetsplan 2017)
+1. BESLUT: Kontraktering av föreningskonsulent
 1. Uppdatering WFDF medlemskap
 1. Övrigt
 1. Nästa möte
