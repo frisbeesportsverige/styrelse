@@ -87,6 +87,11 @@ För att säkerställa att samverkan mellan grenförbunds styrelsen (GFS) och FS
 1. Nästa möte
 1. Mötets avslutande (-21:30)
 
+### Underlag
+
+* [Fördelningsnyckel](https://docs.google.com/spreadsheets/d/1vAatXWkHKMyOZhz_l4UFYZniL22mJ8K4AYkOaXKAvAU/edit#gid=1519565415)
+* [Utbetalningar GF](https://docs.google.com/spreadsheets/d/1hsHP_wc3ctd0wI0pCmJLniXDOEbQXLc219ee2Qjr4yw/edit#gid=0)
+
 
 ## Dagordning FS-möte 3 - 23/5 20:00-21:30
 
