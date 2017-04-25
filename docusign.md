@@ -18,3 +18,4 @@ Om man ska skicka många dokument för signatur är det bra att först lägga up
 1. Välj person som ska signera: ![välj fält och personer](./media/docusign/fields.png "fields")
 1. Placera ut signaturen och övriga fält du vill personen ska fylla i
 1. Uppreapa föregående två steg för alla personer
+1. Klicka på send uppe i högra hörnet
