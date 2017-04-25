@@ -11,3 +11,10 @@ Ett bra tillfälle att göra detta är samtidigt som medlemsregisret uppdateras.
 
 I all kommunikation som går ut från kansliet är det viktigt att styrelsen är informerad. styrelsen@frisbeepsort.se ska vara cc:ad i alla
 officiella mail från kansliset.
+
+
+# Semesterplanering
+
+En semesterlista ska läggas upp för varje kalenderår på Google Drive. Här lägger personal in semster som planerats in. Styrelseledamötet lägger in perioder då man inte är tillgänglig för FS-möten.
+
+[Semesterplanering för 2017](https://docs.google.com/spreadsheets/d/12UTxoUhcyvAQXzLOolgSjnZAyPe50Fnnz-P8Svwatj0/edit#gid=0)
