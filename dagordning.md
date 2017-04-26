@@ -84,7 +84,7 @@ För att säkerställa att samverkan mellan grenförbunds styrelsen (GFS) och FS
 1. BESLUT: Utbetalning till GF (förutsatt att statsanslag betalats ut) (21:15-21:25)
 1. REMINDER 3 - WFDF: Congress votes on new membership applications – proposals 2017/3, 4, 5 and 6
 1. Övrigt
- * Användandet av privat e-postadress vid utskick/svar och arkivering av dessa (Stefan)
+  * Användandet av privat e-postadress vid utskick/svar och arkivering av dessa (Stefan)
 1. Nästa möte
 1. Mötets avslutande (-21:30)
 
