@@ -10,15 +10,15 @@ Förslag på beslutspunkter och viktiga informationspunkter för styrelsemöten 
 
 * FS Möte 1 - Konstituerande
 * FS Möte 2 - Arbetsformer FS, Anställning av föreningskonsulent, Utbetalning statsanslag till GF (förutsatt att statsanslag betalats ut)
-* FS Möte 3 - Arbetsbeskrivning kansliet, Utbetalning av överskott till GF
-* FS Möte 4 - Uppdaterad plan mot doping och matchfixing (enl. verksamhetsplan 2017)
-* FS Möte 5 - Strategisk plan (enl. verksamhetsplan 2017), 
-* FS Möte 6 - Förbättrat stöd till föreningar (enl. verksamhetsplan 2017), Utbetalning statsanslag till GF (förutsatt att statsanslag betalats ut), Genomgång av utvecklingsplan från GF
-* FS Möte 7 - Uppdatering av 3-årig utvecklingsplan för idrottslyft (baserat på input från GF)
-* FS Möte 8 - Tidslinje årsmöte 2018 samt fördelning av arbetsuppgifter (budget, verksamhetsplan etc.)
+* FS Möte 3 - Fördelningsnyckel
+* FS Möte 4 - Arbetsbeskrivning kansliet [Stefan & Jonas], Kontraktering av föreningskonsulent [Jonas], Uppdaterad plan mot doping och matchfixing (enl. verksamhetsplan 2017) [Patrik & Stina], Utbetalning av överskott till GF [Stefan & Jonas]
+* FS Möte 5 - Förbättrat stöd till föreningar (enl. verksamhetsplan 2017) [Peter]
+* FS Möte 6 - Utbetalning statsanslag till GF (förutsatt att statsanslag betalats ut) [Stefan], Genomgång av utvecklingsplan från GF [Jonas], Strategisk plan (enl. verksamhetsplan 2017) [Martin]
+* FS Möte 7 - Uppdatering av 3-årig utvecklingsplan för idrottslyft (baserat på input från GF) [Jonas]
+* FS Möte 8 - Tidslinje årsmöte 2018 samt fördelning av arbetsuppgifter (budget [Stefan], verksamhetsplan [Jonas] etc.)
 * FS Möte 9 - Arbete med årsmöteshandlingar
-* FS Möte 10 - Prognos ekonomiskt utfall 2017, Sista utbetalning statsanslag till GF för 2017 (förutsatt att statsanslag betalats ut), 
-* FS Möte 11- Genomgång inför bokslut, Revidering stadgar
+* FS Möte 10 - Prognos ekonomiskt utfall 2017 [Peter], Sista utbetalning statsanslag till GF för 2017 (förutsatt att statsanslag betalats ut), 
+* FS Möte 11- Genomgång inför bokslut, Revidering stadgar [Stefan & Martin]
 * FS Möte 12 - Genomgång bokslut och revisionsberättelse, Material årsmöte 2018, Första utbetalning statsanslag till GF för 2018 (förutsatt att statsanslag betalats ut)
 * FS Möte 13 - Slutgiltig fördelningsnyckel för 2017. Korrigering utbetalningar GF
 
@@ -39,16 +39,12 @@ Förslag på datum:
 * FS Möte 13 - 13/3 
 
 
-### Datum Koordineringsmöten med GF
+### Arbete med IL-Utvecklingsplan tillsammans med GF
 
-För att säkerställa att samverkan mellan grenförbunds styrelsen (GFS) och FS fungerar på ett bra sätt hålls återkommande möten. Två viktiga delar är arbetet med idrottslyftet och att styrning av kansliet fungerar på ett bra sätt. Förslag på datum:
+* Möte 1. 19:30-21:30
+* Möte 2. 17/5 
+* Möte 3. 29/5
 
-* 2/5 20:00-21:30 - Idrottslyft (måste säkerställa att GF kan denna tid)
-* 14/6
-* 16/8
-* 11/10
-* 13/12
-* 14/2
 
 # Dagordningar
 
@@ -92,7 +88,7 @@ För att säkerställa att samverkan mellan grenförbunds styrelsen (GFS) och FS
 1. Mötets avslutande (-21:30)
 
 
-## Dagordning FS-möte 3 - 23/5 20:00-21:30
+## Dagordning FS-möte 3
 
 1. Mötets öppnande
 1. Val av mötesordförande
@@ -100,10 +96,47 @@ För att säkerställa att samverkan mellan grenförbunds styrelsen (GFS) och FS
 1. Val av justeringsman
 1. Godkännande av dagordning
 1. Kanslirapport
-1. BESLUT: Arbetsbeskrivning kansliet
-1. BESLUT: Kontraktering av föreningskonsulent
-1. BESLUT: Utbetalning av överskott till GF
+1. BESLUT: Beredning av beslut [Stefan]
+1. BESLUT: Fördelningsnyckel [Martin]
+1. BESLUT: Godkännande av SDFA [Martin]
+1. Status Arbetsbeskrivning kansliet [Jonas & Stefan ansvariga]
+1. Status Uppdaterad plan mot doping och matchfixing (enl. verksamhetsplan 2017) [Patrik & Stina ansvariga]
 1. Uppdatering WFDF medlemskap
+1. Övrigt
+1. Övrigt 1 - Föreningar (Martin)
+1. Övrigt 2 - Feedback från årsmötet (Stefan)
+1. Nästa möte
+1. Mötets avslutande
+
+
+## Dagordning FS-möte 4
+
+1. Mötets öppnande
+1. Val av mötesordförande
+1. Val av mötesekreterare
+1. Val av justeringsman
+1. Godkännande av dagordning
+1. Kanslirapport
+1. BESLUT: Arbetsbeskrivning kansliet [Jonas & Stefan ansvariga]
+1. BESLUT: Kontraktering av föreningskonsulent [Jonas ansvarig]
+1. BESLUT: Uppdaterad plan mot doping och matchfixing (enl. verksamhetsplan 2017) [Patrik & Stina ansvariga]
+1. BESLUT: Utbetalning av överskott till GF [Stefan & Jonas ansvariga]
+1. ...
+1. Övrigt
+1. Nästa möte
+1. Mötets avslutande
+
+
+## Dagordning FS-möte 5
+
+1. Mötets öppnande
+1. Val av mötesordförande
+1. Val av mötesekreterare
+1. Val av justeringsman
+1. Godkännande av dagordning
+1. Kanslirapport
+1. BESLUT: Förbättrat stöd till föreningar (enl. verksamhetsplan 2017) [Peter ansvarig]
+1. Status arbete med Strategisk plan [Martin ansvarig]
 1. Övrigt
 1. Nästa möte
 1. Mötets avslutande
