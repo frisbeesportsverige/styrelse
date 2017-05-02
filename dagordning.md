@@ -85,6 +85,7 @@ För att säkerställa att samverkan mellan grenförbunds styrelsen (GFS) och FS
 1. REMINDER 3 - WFDF: Congress votes on new membership applications – proposals 2017/3, 4, 5 and 6
 1. Övrigt
 1. Övrigt 1 - Användandet av privat e-postadress vid utskick/svar och arkivering av dessa (Stefan)
+1. Övrigt 2 - Föreningar (Martin)
 1. Nästa möte
 1. Mötets avslutande (-21:30)
 
