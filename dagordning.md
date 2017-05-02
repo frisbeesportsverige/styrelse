@@ -96,7 +96,7 @@ Förslag på datum:
 1. Val av justeringsman
 1. Godkännande av dagordning
 1. Kanslirapport
-1. BESLUT: Beredning av beslut [Stefan]
+1. Beredning av beslut [Stefan]
 1. BESLUT: Fördelningsnyckel [Martin]
 1. BESLUT: Godkännande av SDFA [Martin]
 1. Status Arbetsbeskrivning kansliet [Jonas & Stefan ansvariga]
