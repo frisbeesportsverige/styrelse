@@ -48,11 +48,6 @@ Förslag på datum:
 
 # Dagordningar
 
-## Punkter att lägga in:
-
-* WFDF Congress, which will be held on Saturday, 24 June 2017, on the occasion of the WCBU 2017 in Royan, France.
-
-
 ## Dagordning FS-möte 1
 
 1. Mötets öppnande
