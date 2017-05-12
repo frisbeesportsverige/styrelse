@@ -99,9 +99,11 @@ Förslag på datum:
 1. Beredning av beslut [Stefan]
 1. BESLUT: Fördelningsnyckel [Martin]
 1. BESLUT: Godkännande av SDFA [Martin]
+1. WFDF Congress Royan, FRA, June 24 [Jonas]
 1. Status Arbetsbeskrivning kansliet [Jonas & Stefan ansvariga]
 1. Status Uppdaterad plan mot doping och matchfixing (enl. verksamhetsplan 2017) [Patrik & Stina ansvariga]
 1. Uppdatering WFDF medlemskap
+1. Rapport from RIM [Peter L.]
 1. Övrigt
 1. Övrigt 1 - Föreningar (Martin)
 1. Övrigt 2 - Feedback från årsmötet (Stefan)
