@@ -90,6 +90,7 @@ Förslag på datum:
 1. Val av mötesekreterare
 1. Val av justeringsman
 1. Godkännande av dagordning
+1. Turordning för suppleanter
 1. Kanslirapport
 1. Beredning av beslut [Stefan]
 1. BESLUT: Fördelningsnyckel [Martin]
