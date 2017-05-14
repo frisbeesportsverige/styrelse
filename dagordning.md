@@ -85,24 +85,25 @@ Förslag på datum:
 
 ## Dagordning FS-möte 3
 
-1. Mötets öppnande
+1. Mötets öppnande (20:00)
 1. Val av mötesordförande
 1. Val av mötesekreterare
 1. Val av justeringsman
-1. Godkännande av dagordning
-1. Turordning för suppleanter
-1. Kanslirapport
-1. Beredning av beslut [Stefan]
-1. BESLUT: Fördelningsnyckel [Martin]
-1. BESLUT: Godkännande av SDFA [Martin]
-1. WFDF Congress Royan, FRA, June 24 [Jonas]
-1. Status Arbetsbeskrivning kansliet [Jonas & Stefan ansvariga]
-1. Status Uppdaterad plan mot doping och matchfixing (enl. verksamhetsplan 2017) [Patrik & Stina ansvariga]
-1. Uppdatering WFDF medlemskap
-1. Rapport from RIM [Peter L.]
+1. Godkännande av dagordning 
+1. Turordning för suppleanter (20:10-20:15)
+1. Kanslirapport (20:15-20:20)
+1. Beredning av beslut [Stefan] (20:20-20:30)
+1. BESLUT: Godkännande av SDFA [Martin] (20:30-20:40)
+1. Uppdatering WFDF medlemskap [Jonas] (20:40-)
+1. BESLUT: WFDF Congress Royan, FRA, June 24. Representation och hur ska SFF rösta angående de nya stadgarna. [Jonas]
+1. BESLUT: SFF anmäla till WFDF att SFF inte längre representerar discgolf (-20:55)
+1. BESLUT: Fördelningsnyckel [Martin] (20:55-21:05)
+1. Status Arbetsbeskrivning kansliet [Jonas & Stefan ansvariga] (21:05-21:10)
+1. Status Uppdaterad plan mot doping och matchfixing (enl. verksamhetsplan 2017) [Patrik & Stina ansvariga] (21:10-21-15)
+1. Rapport from RIM [Peter L.] (21:15-21:20)
 1. Övrigt
-1. Övrigt 1 - Föreningar (Martin)
-1. Övrigt 2 - Feedback från årsmötet (Stefan)
+1. Övrigt 1 - Föreningar (Martin) (21:20-21:25)
+1. Övrigt 2 - Feedback från årsmötet (Stefan) (21:25-21:30)
 1. Nästa möte
 1. Mötets avslutande
 
