@@ -90,7 +90,7 @@ Förslag på datum:
 1. Val av mötesekreterare
 1. Val av justeringsman
 1. Godkännande av dagordning
-1. Föregående protokoll
+1. Föregående protokoll/Att göra lista
 1. Turordning för suppleanter (20:10-20:15)
 1. Kanslirapport (20:15-20:20)
 1. Beredning av beslut [Stefan] (20:20-20:30)
@@ -149,7 +149,7 @@ Förslag på datum:
 1. Val av mötesekreterare
 1. Val av justeringsman
 1. Godkännande av dagordning
-1. Föregående protokoll
+1. Föregående protokoll/Att göra lista
 1. Kanslirapport
 1. ...
 1. Övrigt
