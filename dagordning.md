@@ -121,7 +121,7 @@ Förslag på datum:
 1. BESLUT: Kontraktering av föreningskonsulent [Jonas ansvarig]
 1. BESLUT: Uppdaterad plan mot doping och matchfixing (enl. verksamhetsplan 2017) [Patrik & Stina ansvariga]
 1. BESLUT: Utbetalning av överskott till GF [Stefan & Jonas ansvariga]
-1. ...
+1. Diskussion rutin för medlemsförteckning [Martin]
 1. Övrigt
 1. Nästa möte
 1. Mötets avslutande
