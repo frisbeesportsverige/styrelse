@@ -5,7 +5,7 @@ Det är viktigt att registret över medlemsföreningar är uppdaterat inför 31/
 En avstämnning av mailadresserna i Google Gruppen klubbmail@frisbeesport.se ska göras minst en gång per år.
 Ett bra tillfälle att göra detta är samtidigt som medlemsregisret uppdateras. Google Gruppen administreras [här](https://groups.google.com/a/frisbeesport.se/d/forum/klubbmail)
 
-**TODO: Lägg in länk till föreningsregister på Google Drive**
+**TODO: Lägg in länk till föreningsregister på Google Drive** ***Var på Google Drive ska den läggas?***
 
 # Officiell kommunikation
 
