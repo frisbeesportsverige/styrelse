@@ -111,20 +111,23 @@ Förslag på datum:
 
 ## Dagordning FS-möte 4
 
-1. Mötets öppnande
+1. Mötets öppnande (20:00)
 1. Val av mötesordförande
 1. Val av mötesekreterare
 1. Val av justeringsman
 1. Godkännande av dagordning
-1. Kanslirapport
-1. BESLUT: Arbetsbeskrivning kansliet [Jonas & Stefan ansvariga]
-1. BESLUT: Kontraktering av föreningskonsulent [Jonas ansvarig]
+1. Föregående protokoll
+1. Kanslirapport (20:10-20:20)
+1. BESLUT: Arbetsbeskrivning kansliet [Jonas & Stefan ansvariga] (20:20-)
 1. BESLUT: Uppdaterad plan mot doping och matchfixing (enl. verksamhetsplan 2017) [Patrik & Stina ansvariga]
-1. BESLUT: Utbetalning av överskott till GF [Stefan & Jonas ansvariga]
-1. Diskussion rutin för medlemsförteckning [Martin]
+1. BESLUT: Utbetalning av överskott till GF [Stefan & Jonas ansvariga] (-20:50)
+1. Genomgång status Utvecklingsplan och konsekvens för finansiering av kansliet (20:45-21:00)
+1. Status arbete med fördelningsnyckel [Martin] (21:00-21:10)
+1. Diskussion rutin för medlemsförteckning [Martin] (21:10-21:15)
+1. Utseende av ledamöter i Idrottens skiljenämnd [Jonas] (21:15-21:25)
 1. Övrigt
 1. Nästa möte
-1. Mötets avslutande
+1. Mötets avslutande (-21:30)
 
 
 ## Dagordning FS-möte 5
@@ -136,6 +139,7 @@ Förslag på datum:
 1. Godkännande av dagordning
 1. Kanslirapport
 1. BESLUT: Förbättrat stöd till föreningar (enl. verksamhetsplan 2017) [Peter ansvarig]
+1. BESLUT: Kontraktering av föreningskonsulent [Jonas ansvarig]
 1. Status arbete med Strategisk plan [Martin ansvarig]
 1. Övrigt
 1. Nästa möte
