@@ -120,7 +120,7 @@ Förslag på datum:
 1. Kanslirapport (20:10-20:20)
 1. BESLUT: Arbetsbeskrivning kansliet [Jonas & Stefan ansvariga] (20:20-)
 1. BESLUT: Uppdaterad plan mot doping och matchfixing (enl. verksamhetsplan 2017) [Patrik & Stina ansvariga]
-1. BESLUT: Utbetalning av överskott till GF [Stefan & Jonas ansvariga] (-20:50)
+1. BESLUT: Utbetalning av överskott till GF [Stefan & Jonas ansvariga] (-20:45)
 1. Genomgång status Utvecklingsplan och konsekvens för finansiering av kansliet (20:45-21:00)
 1. Status arbete med fördelningsnyckel [Martin] (21:00-21:10)
 1. Diskussion rutin för medlemsförteckning [Martin] (21:10-21:15)
