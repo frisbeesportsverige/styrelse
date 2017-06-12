@@ -118,7 +118,7 @@ Förslag på datum:
 1. Godkännande av dagordning
 1. Föregående protokoll
 1. Att göra lista
-1. Kanslirapport (20:10-20:20)
+1. Kanslirapport och rapport från RIM (20:10-20:20)
 1. BESLUT: Arbetsbeskrivning kansliet [Jonas & Stefan ansvariga] (20:20-)
 1. BESLUT: Uppdaterad plan mot doping och matchfixing (enl. verksamhetsplan 2017) [Patrik & Stina ansvariga]
 1. BESLUT: Utbetalning av överskott till GF [Stefan & Jonas ansvariga] (-20:45)
