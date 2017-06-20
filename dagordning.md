@@ -141,6 +141,7 @@ Förslag på datum:
 1. Godkännande av dagordning
 1. Kanslirapport
 1. Representant Elitidrottskonferens 12-13 oktober, Scandic Infra City, Upplands-Väsby (ansvarig utvecklingsplanen) [Jonas]
+1. Info idrottslyft 2018-2019 [Jonas]
 1. BESLUT: Förbättrat stöd till föreningar (enl. verksamhetsplan 2017) [Peter ansvarig]
 1. BESLUT: Kontraktering av föreningskonsulent [Jonas ansvarig]
 1. Status arbete med Strategisk plan [Martin ansvarig]
