@@ -28,7 +28,7 @@ Förslag på datum:
 * FS Möte 2 - 2/5 20:30-21:30
 * FS Möte 3 - 23/5 20:00-21:30
 * FS Möte 4 - 13/6
-* FS Möte 5 - 4/7
+* FS Möte 5 - 18/7
 * FS Möte 6 - 15/8
 * FS Möte 7 - 12/9
 * FS Möte 8 - 10/10
@@ -141,15 +141,32 @@ Förslag på datum:
 1. Godkännande av dagordning
 1. Kanslirapport
 1. Representant Elitidrottskonferens 12-13 oktober, Scandic Infra City, Upplands-Väsby (ansvarig utvecklingsplanen) [Jonas]
-1. Info idrottslyft 2018-2019 [Jonas]
+1. BESLUT: Fördelningsnyckel [Martin]
+1. BESLUT: Utvecklingsplan IL 2018-2019 [Jonas]
 1. BESLUT: Arbetsbeskrivning kansliet [Jonas & Stefan ansvariga]
 1. BESLUT: Förbättrat stöd till föreningar (enl. verksamhetsplan 2017) [Peter ansvarig]
-1. BESLUT: Kontraktering av föreningskonsulent [Jonas ansvarig]
 1. Status arbete med Strategisk plan [Martin ansvarig]
 1. Övrigt
 1. Nästa möte
 1. Mötets avslutande
 
+
+## Dagordning FS-möte 6
+
+1. Mötets öppnande
+1. Val av mötesordförande
+1. Val av mötesekreterare
+1. Val av justeringsman
+1. Godkännande av dagordning
+1. Föregående protokoll
+1. Att göra lista
+1. Kanslirapport
+1. BESLUT: Kontraktering av föreningskonsulent [Jonas ansvarig]
+1. BESLUT: Utbetalning statsanslag till GF [Stefan]
+1. Status arbete med Strategisk plan [Martin ansvarig]
+1. Övrigt
+1. Nästa möte
+1. Mötets avslutande
 
 ## Mall dagordningar planerade FS-möten
 
