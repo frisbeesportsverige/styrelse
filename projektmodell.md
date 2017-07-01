@@ -1,5 +1,9 @@
 # Projektledningsprocesser för Svenska Frisbeesportförbundet
 
+170701
+Jonas Colmsjö
+Utkast
+
 Här beskrivs de projektledningsprocesser som ska användas inom Svenska Frisbeesportförbundet. Processernas är baserade på [Project Management Institute’s (PMI)](http://pmi.org) handbok men har förenklats och anpassats för att passa ideella förbund och föreningar. Processerna har tagits fram inför arbetet med Idrottslyftet 2017-2019 men de är generella och kan användas inom alla typer av projekt.
 
 ![översikt projektmodell](./media/projektmodell/overview.png "översikt projektmodell")
