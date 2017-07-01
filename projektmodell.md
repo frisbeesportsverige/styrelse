@@ -8,6 +8,12 @@ Här beskrivs de projektledningsprocesser som ska användas inom Svenska Frisbee
 
 ![översikt projektmodell](./media/projektmodell/overview.png "översikt projektmodell")
 
+# Organisation
+
+Alla projekt har en ansvarig projektledare och en styrgrupp. Projektledaren rapporterar till styrgruppen som fattar beslut.
+
+
+
 # Översikt över planeringsprocesserna
 
 * En bra plan gör det möjligt att följa upp projektet och att proaktivt kunna göra förändringar i lösning, planer, och bemanning 
