@@ -95,6 +95,25 @@ En kontrollerad process för att hantera förändringar är viktigt för att pro
 ![förändringsbegäran](./media/projektmodell/change_requests.png "förändringsbegäran")
 
 
+# Översikt över genomförandeprocesserna
+
+I genomförandet ligger fokus på projektresurser, kommunikation, kvalitetskontroll och hantering av defekter
+
+
+## Genomförande
+
+* Hantera projektresurser
+* Hantera kommunikation
+* Genomför kvalitetskontroller
+* Hantering av defekter
+
+
+## Dokument
+
+* R.1 Risk Register
+* PI.RE Review Dokumentation
+* DE. Defekter
+
 
 
 
