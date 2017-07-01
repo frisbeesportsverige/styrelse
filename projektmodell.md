@@ -88,5 +88,15 @@ PMI:s projektmodell andvänder sig av [Earned Value metoden](https://en.wikipedi
 ![tid och kostnader](./media/projektmodell/time_and_costs.png "tid och kostnader")
 
 
+## Förändringshantering
+
+En kontrollerad process för att hantera förändringar är viktigt för att projektets omfattning inte ändras okontrollerat
+
+![förändringsbegäran](./media/projektmodell/change_requests.png "förändringsbegäran")
+
+
+
+
+
 
 
