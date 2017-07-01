@@ -115,6 +115,15 @@ I genomförandet ligger fokus på projektresurser, kommunikation, kvalitetskontr
 * DE. Defekter
 
 
+# Tollgates
+
+Tollgates används för att gradvis ta investeringsbeslut och säkerställa att projektet levererar enligt plan. Tollgate beslut tas av styrgruppen och baseras på ett underlag som projektledaren tar fram.
+
+![kostnad och tollgates](./media/projektmodell/cost_and_TGs1.png "kostnad och tollgates")
+
+![kostnad och tollgates](./media/projektmodell/cost_and_TGs2.png "kostnad och tollgates")
+
+
 
 
 
