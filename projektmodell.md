@@ -4,9 +4,11 @@ Här beskrivs de projektledningsprocesser som ska användas inom Svenska Frisbee
 
 ![översikt projektmodell](./media/projektmodell/overview.png "översikt projektmodell")
 
+# Översikt över planeringsprocesserna
+
 ## En bra plan gör det möjligt att följa upp projektet och att proaktivt kunna göra förändringar i lösning, planer, och bemanning 
 
-### Projektledningsprocesser
+## Projektledningsprocesser
 
 1. Skapa WBS
 1. Ta fram Kostnadsuppskattning
@@ -16,7 +18,7 @@ Här beskrivs de projektledningsprocesser som ska användas inom Svenska Frisbee
 1. Lås projektplanen, skapa baseline (omfattning, kostnad, tid)
 
 
-### Dokument
+## Dokument
 
 A. Övergripande projektdokumentation:
 
@@ -40,5 +42,49 @@ Organisation:
 * O.1 Project Organisation Charts
 * O.2 Roles and Responsibilities
 
+## Genom planeringsprocessen detaljeras gradvis planen
+
 ![aktiviteter och dokument](./media/projektmodell/activities_and_documents.png "aktiviteter och dokument")
+
+
+# Översikt över uppföljningsprocesserna
+
+
+## Genom att arbeta strukturerat med actionlog, statusrapporter och mötesanteckningar kan projektarbetet bedrivas effektivt
+## Genom att kontinuerligt följa upp mot plan kan korrigerande åtgärder vidtas i tid
+
+## Uppföljning
+
+* Statusrapportering
+* Uppföljning av nedlagd kostnad och prognos av utfall
+* Uppdatera tidsplaner
+* Uppdatera kostnadsuppskattning
+* Förändringshantering
+* Hantera risker
+
+## Dokument
+
+C.3 Actual Costs, Performance Report and Forecast Completion
+
+PI. Projektledning:
+
+* PI.1 Actionlog
+* PI.SG Stygruppsmaterial
+* PI.SR Statusrapporter
+* PI.MM Mötesanteckningar
+
+CR. Förändringshantering:
+
+* CR.1 Approved Change Requests
+* CR.2 Rejected Change Requests
+
+R.1 Risk Register
+
+
+## Uppföljning av kostnader och tidsplan
+
+![tid och kostnader](./media/projektmodell/time_and_costs.png "tid och kostnader")
+
+
+
 
