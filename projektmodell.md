@@ -117,9 +117,75 @@ I genomförandet ligger fokus på projektresurser, kommunikation, kvalitetskontr
 
 # Tollgates
 
-Tollgates används för att gradvis ta investeringsbeslut och säkerställa att projektet levererar enligt plan. Tollgate beslut tas av styrgruppen och baseras på ett underlag som projektledaren tar fram.
+Tollgates används för att gradvis ta investeringsbeslut och säkerställa att projektet levererar enligt plan. Tollgate beslut tas av styrgruppen och baseras på ett underlag som projektledaren tar fram. 
+
+Vid varje tollgate finns tre möjliga beslut:
+
+1. Godkänn tollgaten och starta nästa fas enligt den plan som projektet presenterat
+1. Ge projektet i uppgift att omarbeta planen för nästa fas
+1. Avsluta projektet
+
+
+Inför TG0-beslutet ska följande dokument finnas:
+
+* Uppdragsspecifikation
+* Övergripande preliminär projektplan
+* Aktivitets- och resursplan för förstudie
+* Uppskattad kostnad för förstudien
+* Beslutsunderlag till styrgrupp
+
+
+Inför TG1-beslutet ska följande dokument finnas:
+
+* Projektspecifikation
+* Gapanalys
+* Benefit and cost analysis
+* Budget för analys- och designfasen
+* Aktivitets- och resursplan
+* Processdesign
+* Beslutsunderlag till styrgrupp
+
+
+Inför TG2-beslutet ska följande dokument finnas:
+
+* Uppdaterad projektspecifikation
+* Detaljerad gapanalys
+* Final Benefit and cost analysis
+* Projektbudget
+* Aktivitets- och resursplan
+* Detaljerad processdesign
+* Beslutsunderlag till styrgrupp
+
+Change Management plan:
+
+* Kommunikationsplan
+* Kommunikationskalender
+* Utrullningsplan och metod
+* Utbildningsplan
+
+Teknisk dokumentation (gäller endast IT-projekt):
+
+* Teststrategi
+* Integrationsdesign
+* Interface agreements
+* Gränssnittskarta
+* RICEFW (lista utvecklingsobjekt)
+
+Inför TG3-beslutet ska följande dokument finnas:
+
+
+Inför TG4-beslutet ska följande dokument finnas:
+
+
+Inför TG5-beslutet ska följande dokument finnas:
+
+
+
+## Exempel på plan
 
 ![kostnad och tollgates](./media/projektmodell/cost_and_TGs1.png "kostnad och tollgates")
+
+## Exempel på uppföljning mot plan
 
 ![kostnad och tollgates](./media/projektmodell/cost_and_TGs2.png "kostnad och tollgates")
 
