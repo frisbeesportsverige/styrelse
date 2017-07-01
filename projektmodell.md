@@ -83,6 +83,8 @@ R.1 Risk Register
 
 ## Uppföljning av kostnader och tidsplan
 
+PMI:s projektmodell andvänder sig av [Earned Value metoden](https://en.wikipedia.org/wiki/Earned_value_management) för att mäta projektens framdrift. Modellen är lite komplex men det viktiga är att mäta vad som faktiskt producerats i förhållande till planen. Alltså inte endast % klart, vilket annars är vanligt.
+
 ![tid och kostnader](./media/projektmodell/time_and_costs.png "tid och kostnader")
 
 
