@@ -6,7 +6,7 @@ Här beskrivs de projektledningsprocesser som ska användas inom Svenska Frisbee
 
 # Översikt över planeringsprocesserna
 
-## En bra plan gör det möjligt att följa upp projektet och att proaktivt kunna göra förändringar i lösning, planer, och bemanning 
+* En bra plan gör det möjligt att följa upp projektet och att proaktivt kunna göra förändringar i lösning, planer, och bemanning 
 
 ## Projektledningsprocesser
 
@@ -50,8 +50,8 @@ Organisation:
 # Översikt över uppföljningsprocesserna
 
 
-## Genom att arbeta strukturerat med actionlog, statusrapporter och mötesanteckningar kan projektarbetet bedrivas effektivt
-## Genom att kontinuerligt följa upp mot plan kan korrigerande åtgärder vidtas i tid
+* Genom att arbeta strukturerat med actionlog, statusrapporter och mötesanteckningar kan projektarbetet bedrivas effektivt
+* Genom att kontinuerligt följa upp mot plan kan korrigerande åtgärder vidtas i tid
 
 ## Uppföljning
 
