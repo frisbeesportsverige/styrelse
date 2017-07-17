@@ -140,11 +140,12 @@ Förslag på datum:
 1. Val av justeringsman
 1. Godkännande av dagordning
 1. Kanslirapport
-1. Representant Elitidrottskonferens 12-13 oktober, Scandic Infra City, Upplands-Väsby (ansvarig utvecklingsplanen) [Jonas]
 1. BESLUT: Fördelningsnyckel [Martin]
 1. BESLUT: Utvecklingsplan IL 2018-2019 [Jonas]
 1. BESLUT: Arbetsbeskrivning kansliet [Jonas & Stefan ansvariga]
 1. BESLUT: Förbättrat stöd till föreningar (enl. verksamhetsplan 2017) [Peter ansvarig]
+1. Input till arbete i WFDF bylaws task force [Jonas]
+1. Representant Elitidrottskonferens 12-13 oktober, Scandic Infra City, Upplands-Väsby (ansvarig utvecklingsplanen) [Jonas]
 1. Status arbete med Strategisk plan [Martin ansvarig]
 1. Övrigt
 1. Nästa möte
