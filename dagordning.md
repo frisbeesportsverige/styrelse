@@ -147,6 +147,7 @@ Förslag på datum:
 1. Input till arbete i WFDF bylaws task force [Jonas]
 1. Representant Elitidrottskonferens 12-13 oktober, Scandic Infra City, Upplands-Väsby (ansvarig utvecklingsplanen) [Jonas]
 1. Status arbete med Strategisk plan [Martin ansvarig]
+1. Samarbetsavtal Svenska Spel - SFF måste före sista augusti [Peter]
 1. Övrigt
 1. Nästa möte
 1. Mötets avslutande
