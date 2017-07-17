@@ -5,7 +5,12 @@ Det är viktigt att registret över medlemsföreningar är uppdaterat inför 31/
 En avstämnning av mailadresserna i Google Gruppen klubbmail@frisbeesport.se ska göras minst en gång per år.
 Ett bra tillfälle att göra detta är samtidigt som medlemsregisret uppdateras. Google Gruppen administreras [här](https://groups.google.com/a/frisbeesport.se/d/forum/klubbmail)
 
+## Föreningsansökan
+
+Går ut mail från IdrottOnline när en förening ansöker om medlemskan eller vill ändra sitt medlemskap. Ska gå till styrelsen och beörda GF (oklart om det går att styra detta på GF i IO).
+
 **TODO: Lägg in länk till föreningsregister på Google Drive** ***Var på Google Drive ska den läggas?***
+
 
 # Officiell kommunikation
 
@@ -18,3 +23,28 @@ officiella mail från kansliset.
 En semesterlista ska läggas upp för varje kalenderår på Google Drive. Här lägger personal in semster som planerats in. Styrelseledamötet lägger in perioder då man inte är tillgänglig för FS-möten.
 
 [Semesterplanering för 2017](https://docs.google.com/spreadsheets/d/12UTxoUhcyvAQXzLOolgSjnZAyPe50Fnnz-P8Svwatj0/edit#gid=0)
+
+
+# Input rutiner från kansliet
+
+* Ekonomi; bokföring/betalningar SFF och grenförbund
+* Bokslutsarbete – startar i november/december med kontakt revisor och slutförs sedan i tid inför årsmöte
+* Årsmöte förberedelser; lokaler/utskick/resor/kallelse/sammanställa dokument
+
+* Uppdatering web, www.frisbeesport.se
+* Hantera inkommande post; SFF och 3 grenförbund
+* Administrera användare och grupper G-mail
+
+* IdrottOnline
+* Licenshantering
+
+* Landslag; bokningar, anmälan, betalningar och övrigt tillhörande, berör först och främst ultimate
+* Kontakter RF, SISU m.fl.
+* Besvara inkommen e-post
+* Länk mellan kansli-FS- GF-Föreningar- Medlemmar
+* Kontakt gentemot föreningar och deras medlemmar, allmän service
+
+* Medverka RIM vartannat år Riksidrottsforum vartannat år
+* Idrottslyftsträffar 2 ggr/år
+
+* Förbereda FS-möten, sekreterare och deltar på alla FS-möten om möjligt
