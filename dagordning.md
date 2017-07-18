@@ -169,6 +169,9 @@ Förslag på datum:
 1. BESLUT: Fördelningsnyckel [Martin]
 1. BESLUT: Utvecklingsplan IL 2018-2019 [Jonas]
 1. BESLUT: Arbetsbeskrivning kansliet [Jonas & Stefan]
+1. Utse SFF representant i Idrottens skiljenämnd [Jonas]
+1. Rangordning av ansökande till RF elitidrottsstipendium [Peter]
+1. Ev nomineringar till RF råd och referensgrupper [Stefan]
 1. Input till arbete i WFDF bylaws task force [Jonas]
 1. Övrigt
 1. Nästa möte
