@@ -1,3 +1,7 @@
+# Ekonomi
+
+Löpande bokföring görs i Fortnox. Rutiner finns [här](https://github.com/frisbeesportsverige/styrelse/blob/master/ekonomi.md). Bokslut görs av kansliet och revideras av revisor som välj av årsmötet.
+
 # FS-möten
 
 Dagordningar finns [här](https://github.com/frisbeesportsverige/styrelse/blob/master/dagordning.md) och underlag samt protokoll på [Google Drive](https://drive.google.com/drive/u/1/folders/0B7C0KQaKnWjGd1pBSTlyZDUtcWs)
@@ -60,6 +64,10 @@ En semesterlista ska läggas upp för varje kalenderår på Google Drive. Här l
 Ansökan om SF-stöd ska skickas in en gång per år tillsammans med diverse statistik. Deadline brukar ligga i augusti. Info för 2018 finns på [Google Drive](https://drive.google.com/drive/u/1/folders/0B16tG-NJecYuSjNDRkxoNzktQVk).
 
 
+# Stadgar
+
+Stadgarna ändras vid årsmöten efter proposition från styrelsen eller motion från medlem. Stadgarna finns på [Google Drive](https://drive.google.com/drive/u/1/folders/0B16tG-NJecYudm9rNWh4VEJtVDQ) och publiceras på [hemsidan](http://www.frisbeesport.se/Dokumentbank/Dokument/Stadgar).
+
 # Utvecklingsplan / Idrottslyft
 
 Förbund har möjlighet att ansöka på medel för projekt inriktade på ungdomsverksamhet. Dessa medel är i samma storlekordning som det ordinarie SF-stödet. Mer information finns på [Google Drive](https://drive.google.com/drive/u/1/folders/0B16tG-NJecYuRjRhQlpDOTZZOEk).
@@ -68,6 +76,11 @@ Förbund har möjlighet att ansöka på medel för projekt inriktade på ungdoms
 # WFDF
 
 Statistik ska skickas in till WFDF en gång per år. Kongresser brukar hållas en gång per år i samband med en WFDF sdanktionerad tävling. Kongressmaterial etc. finns på [Google Drive](https://drive.google.com/drive/u/1/folders/0B16tG-NJecYuR3U1NmZCRElwWHc).
+
+
+# Årsmöten
+
+Material finns på [Google Drive](https://drive.google.com/drive/u/1/folders/0B7C0KQaKnWjGV1BzR2l6YXlxUWs) och publiceras på [hemsidan](http://www.frisbeesport.se/svenskafrisbeesportforbundet/Dokumentbank/arsmoteshandlingar/). Protokoll från årsmöten publiceras på [hemsidan](http://www.frisbeesport.se/Dokumentbank/Dokument/Protokollarsmote/)
 
 
 # Input rutiner från kansliet
