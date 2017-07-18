@@ -4,7 +4,11 @@
 
 Ansökan om SF-stöd ska skickas in en gång per år tillsammans med diverse statistik. Deadline brukar ligga i augusti. Info för 2018 finns på [Google Drive](https://drive.google.com/drive/u/1/folders/0B16tG-NJecYuSjNDRkxoNzktQVk).
 
-# Utvecklingsplan / Idrottslyft
+# Samarbetsavtal Svenska Spel
+
+Genom ett samarbetsavtal med Svenska Spel kan specialidrottsförbund (SF) få ~100k per år med diverse marknadsförningsaktiviteter som motprestation (logga på hemsida, event, nyhetsbrev etc.). Mer info finns på [Google Drive](https://drive.google.com/drive/u/1/folders/0B16tG-NJecYuakJES1Rwd1V0QkE).
+
+## Utvecklingsplan / Idrottslyft
 
 Förbund har möjlighet att ansöka på medel för projekt inriktade på ungdomsverksamhet. Dessa medel är i samma storlekordning som det ordinarie SF-stödet. Mer information finns på [Google Drive](https://drive.google.com/drive/u/1/folders/0B16tG-NJecYuRjRhQlpDOTZZOEk).
 
@@ -42,6 +46,7 @@ Går ut mail från IdrottOnline när en förening ansöker om medlemskan eller v
 
 Diverse lathundar finns på [Google Drive](https://drive.google.com/drive/u/1/folders/0B4IFYkiaeoLSUmlEU285M2FmeFk) och mailas till GF då uppdateringar görs.
 
+
 # Licenshantering
 
 Föreningarna får faktura för de medlemmar som har licens två (stämmer det?) gånger per år. På [Google Drive](https://drive.google.com/drive/u/1/folders/0B16tG-NJecYuNEpOWlU2VnlrRzQ) finns underlagen.
@@ -61,11 +66,6 @@ Här väljs RF:s styrelse, förbund som ansöker om medlemskap i RF godkäns/avs
 # RF:s och Svenska Spels elitidrottsstipendium 
 
 SFF rangordnar tillsammans med GF de ansökningar som kommer in och skickar sedan vidare till RF. Mer information finns på [svenskidrott.se](http://www.svenskidrott.se/Elitidrott/Elitidrottsstipendium)
-
-
-# Samarbetsavtal Svenska Spel
-
-Genom ett samarbetsavtal med Svenska Spel kan specialidrottsförbund (SF) få ~100k per år med diverse marknadsförningsaktiviteter som motprestation (logga på hemsida, event, nyhetsbrev etc.). Mer info finns på [Google Drive](https://drive.google.com/drive/u/1/folders/0B16tG-NJecYuakJES1Rwd1V0QkE).
 
 
 # Semesterplanering
