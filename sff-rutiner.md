@@ -24,6 +24,14 @@ En semesterlista ska läggas upp för varje kalenderår på Google Drive. Här l
 
 [Semesterplanering för 2017](https://docs.google.com/spreadsheets/d/12UTxoUhcyvAQXzLOolgSjnZAyPe50Fnnz-P8Svwatj0/edit#gid=0)
 
+# RF:s och Svenska Spels elitidrottsstipendium 
+
+SFF rangordnar tillsammans med GF de ansökningar som kommer in och skickar sedan vidare till RF. Mer information finns på [svenskidrott.se(http://www.svenskidrott.se/Elitidrott/Elitidrottsstipendium)
+
+
+# Samarbetsavtal Svenska Spel
+
+Genom ett samarbetsavtal med Svenska Spel kan specialidrottsförbund (SF) få ~100k per år med diverse marknadsförningsaktiviteter som motprestation (logga på hemsida, event, nyhetsbrev etc.).
 
 # Input rutiner från kansliet
 
