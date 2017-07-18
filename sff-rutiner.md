@@ -33,6 +33,11 @@ I all kommunikation som går ut från kansliet är det viktigt att styrelsen är
 officiella mail från kansliset.
 
 
+# Riksidrottsmöte (RIM)
+
+Här väljs RF:s styrelse, förbund som ansöker om medlemskap i RF godkäns/avslås. Hålls varannat år. Mer information finns [här](http://www.svenskidrott.se/Arbetsrum/riksidrottsmotet/).
+
+
 # RF:s och Svenska Spels elitidrottsstipendium 
 
 SFF rangordnar tillsammans med GF de ansökningar som kommer in och skickar sedan vidare till RF. Mer information finns på [svenskidrott.se](http://www.svenskidrott.se/Elitidrott/Elitidrottsstipendium)
@@ -58,6 +63,11 @@ Ansökan om SF-stöd ska skickas in en gång per år tillsammans med diverse sta
 # Utvecklingsplan / Idrottslyft
 
 Förbund har möjlighet att ansöka på medel för projekt inriktade på ungdomsverksamhet. Dessa medel är i samma storlekordning som det ordinarie SF-stödet. Mer information finns på [Google Drive](https://drive.google.com/drive/u/1/folders/0B16tG-NJecYuRjRhQlpDOTZZOEk).
+
+
+# WFDF
+
+Statistik ska skickas in till WFDF en gång per år. Kongresser brukar hållas en gång per år i samband med en WFDF sdanktionerad tävling.
 
 
 # Input rutiner från kansliet
