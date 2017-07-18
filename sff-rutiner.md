@@ -1,10 +1,25 @@
+# Bidrag
+
+## SF-stöd
+
+Ansökan om SF-stöd ska skickas in en gång per år tillsammans med diverse statistik. Deadline brukar ligga i augusti. Info för 2018 finns på [Google Drive](https://drive.google.com/drive/u/1/folders/0B16tG-NJecYuSjNDRkxoNzktQVk).
+
+# Utvecklingsplan / Idrottslyft
+
+Förbund har möjlighet att ansöka på medel för projekt inriktade på ungdomsverksamhet. Dessa medel är i samma storlekordning som det ordinarie SF-stödet. Mer information finns på [Google Drive](https://drive.google.com/drive/u/1/folders/0B16tG-NJecYuRjRhQlpDOTZZOEk).
+
+Medel som beviljas för IL används i de projekt som godkänts i utvecklingsplanen. RF gör ekonomisk uppföljning av dessa projekt. I övrigt är FS är fria att styra sina projekt själva. En projektmodell som GF kan använda för att styra sina projekt finns [här](https://github.com/frisbeesportsverige/styrelse/blob/master/projektmodell.md)
+
+
 # Ekonomi
 
 Löpande bokföring görs i Fortnox. Rutiner finns [här](https://github.com/frisbeesportsverige/styrelse/blob/master/ekonomi.md). Bokslut görs av kansliet och revideras av revisor som välj av årsmötet.
 
+
 # FS-möten
 
 Dagordningar finns [här](https://github.com/frisbeesportsverige/styrelse/blob/master/dagordning.md) och underlag samt protokoll på [Google Drive](https://drive.google.com/drive/u/1/folders/0B7C0KQaKnWjGd1pBSTlyZDUtcWs)
+
 
 # Föreningsregister
 
@@ -13,13 +28,14 @@ Det är viktigt att registret över medlemsföreningar är uppdaterat inför 31/
 En avstämnning av mailadresserna i Google Gruppen klubbmail@frisbeesport.se ska göras minst en gång per år.
 Ett bra tillfälle att göra detta är samtidigt som medlemsregisret uppdateras. Google Gruppen administreras [här](https://groups.google.com/a/frisbeesport.se/d/forum/klubbmail)
 
+Medlemförteckning finns på [Google Drive](https://drive.google.com/drive/u/1/folders/0B7C0KQaKnWjGd3FTd1hBci1UZ3M)
+
 Mer information om föreningsregistret finns på [Google Drive](https://drive.google.com/drive/u/1/folders/0B7C0KQaKnWjGd3FTd1hBci1UZ3M)
+
 
 ## Föreningsansökan
 
 Går ut mail från IdrottOnline när en förening ansöker om medlemskan eller vill ändra sitt medlemskap. Ska gå till styrelsen och beörda GF (oklart om det går att styra detta på GF i IO).
-
-**TODO: Lägg in länk till föreningsregister på Google Drive** ***Var på Google Drive ska den läggas?***
 
 
 # Lathundar för GF och föreningar
@@ -59,19 +75,16 @@ En semesterlista ska läggas upp för varje kalenderår på Google Drive. Här l
 [Semesterplanering för 2017](https://docs.google.com/spreadsheets/d/12UTxoUhcyvAQXzLOolgSjnZAyPe50Fnnz-P8Svwatj0/edit#gid=0)
 
 
-# SF-stöd
-
-Ansökan om SF-stöd ska skickas in en gång per år tillsammans med diverse statistik. Deadline brukar ligga i augusti. Info för 2018 finns på [Google Drive](https://drive.google.com/drive/u/1/folders/0B16tG-NJecYuSjNDRkxoNzktQVk).
-
-
 # Stadgar
 
-Stadgarna ändras vid årsmöten efter proposition från styrelsen eller motion från medlem. Stadgarna finns på [Google Drive](https://drive.google.com/drive/u/1/folders/0B16tG-NJecYudm9rNWh4VEJtVDQ) och publiceras på [hemsidan](http://www.frisbeesport.se/Dokumentbank/Dokument/Stadgar).
+Stadgarna ändras vid årsmöten efter proposition från styrelsen eller motion från medlem. Stadgarna finns på [Google Drive](https://drive.google.com/drive/u/1/folders/0B16tG-NJecYudm9rNWh4VEJtVDQ) och publiceras på [hemsidan](http://www.frisbeesport.se/Dokumentbank/Dokument/Stadgar). Här ska även GF:s stadgar läggas.
 
-# Utvecklingsplan / Idrottslyft
 
-Förbund har möjlighet att ansöka på medel för projekt inriktade på ungdomsverksamhet. Dessa medel är i samma storlekordning som det ordinarie SF-stödet. Mer information finns på [Google Drive](https://drive.google.com/drive/u/1/folders/0B16tG-NJecYuRjRhQlpDOTZZOEk).
+# Verksamhetsplan
 
+Verksamhetsplan för 2017 finns [här](http://www.frisbeesport.se/globalassets/svenska-frisbeesportforbundet/arsmote-for-2016/10.-styrelsens-forslag-till-verksamhetsplan-sff-2017.pdf?w=900&h=900)
+
+Underlaget för verksamhetsplanen finns tillsammans med budget etc. tillsammans med övriga årsmöteshandling.
 
 # WFDF
 
@@ -106,3 +119,5 @@ Material finns på [Google Drive](https://drive.google.com/drive/u/1/folders/0B7
 * Idrottslyftsträffar 2 ggr/år
 
 * Förbereda FS-möten, sekreterare och deltar på alla FS-möten om möjligt
+
+Mer info om kanslirutiner finns på [Goolge Drive](https://drive.google.com/drive/u/1/folders/0B7C0KQaKnWjGbjAwUk1GTGVpWjg)
