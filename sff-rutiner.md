@@ -75,17 +75,14 @@ Föreningarna får faktura för de medlemmar som har licens två (stämmer det?)
 
 Om du bara vill ha ut en lista över licensierade så gäller
 
-1/ Licenser
-2/ Personlicenser
-3/ Välj Licenser
-4/ Markera allt gm att klicka i Välj men avmarkera PDGA rutorna
+1. Licenser
+1. Personlicenser
+1. Välj Licenser
+1. Markera allt gm att klicka i Välj men avmarkera PDGA rutorna
+1. Klicka på Sök
+1. Exportera till Excel
 
-Skärmavbild 2017-07-18 kl. 15.13.15.png
-
-5/ Klicka på Sök
-6/ Exportera till Excel
-
-Licenslista på hemsidan uppdateras 1 gång/vecka, under tidigare del av året sedna 2 ggr/vecka då det händer destomer vad gäller nya licenser. Licenserna läggs in i en databas och syns sedan på http://www.frisbeesport.se/svenskafrisbeesportforbundet/tavlingslicens/Aktuellalicenser/
+Licenslista på hemsidan uppdateras 1 gång/vecka under tidigare del av året sedan 2 ggr/vecka då det händer destomer vad gäller nya licenser. Licenserna läggs in i en databas och syns sedan på [här](http://www.frisbeesport.se/svenskafrisbeesportforbundet/tavlingslicens/Aktuellalicenser/)
 
 
 # Officiell kommunikation
