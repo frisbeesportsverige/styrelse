@@ -82,7 +82,7 @@ Om du bara vill ha ut en lista över licensierade så gäller
 1. Klicka på Sök
 1. Exportera till Excel
 
-Licenslista på hemsidan uppdateras 1 gång/vecka under tidigare del av året sedan 2 ggr/vecka då det händer destomer vad gäller nya licenser. Licenserna läggs in i en databas och syns sedan på [här](http://www.frisbeesport.se/svenskafrisbeesportforbundet/tavlingslicens/Aktuellalicenser/)
+Licenslista på hemsidan uppdateras 1 gång/vecka under tidigare del av året sedan 2 ggr/vecka då det händer destomer vad gäller nya licenser. Licenserna läggs in i en databas och syns sedan [här](http://www.frisbeesport.se/svenskafrisbeesportforbundet/tavlingslicens/Aktuellalicenser/).
 
 
 # Officiell kommunikation
