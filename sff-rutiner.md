@@ -31,7 +31,7 @@ SFF rangordnar tillsammans med GF de ansökningar som kommer in och skickar seda
 
 # Samarbetsavtal Svenska Spel
 
-Genom ett samarbetsavtal med Svenska Spel kan specialidrottsförbund (SF) få ~100k per år med diverse marknadsförningsaktiviteter som motprestation (logga på hemsida, event, nyhetsbrev etc.).
+Genom ett samarbetsavtal med Svenska Spel kan specialidrottsförbund (SF) få ~100k per år med diverse marknadsförningsaktiviteter som motprestation (logga på hemsida, event, nyhetsbrev etc.). Mer info finns på [Google Drive](https://drive.google.com/drive/u/1/folders/0B16tG-NJecYuakJES1Rwd1V0QkE)
 
 # Input rutiner från kansliet
 
