@@ -5,6 +5,8 @@ Det är viktigt att registret över medlemsföreningar är uppdaterat inför 31/
 En avstämnning av mailadresserna i Google Gruppen klubbmail@frisbeesport.se ska göras minst en gång per år.
 Ett bra tillfälle att göra detta är samtidigt som medlemsregisret uppdateras. Google Gruppen administreras [här](https://groups.google.com/a/frisbeesport.se/d/forum/klubbmail)
 
+Mer information om föreningsregistret finns på [Google Drive](https://drive.google.com/drive/u/1/folders/0B7C0KQaKnWjGd3FTd1hBci1UZ3M)
+
 ## Föreningsansökan
 
 Går ut mail från IdrottOnline när en förening ansöker om medlemskan eller vill ändra sitt medlemskap. Ska gå till styrelsen och beörda GF (oklart om det går att styra detta på GF i IO).
@@ -32,6 +34,14 @@ SFF rangordnar tillsammans med GF de ansökningar som kommer in och skickar seda
 # Samarbetsavtal Svenska Spel
 
 Genom ett samarbetsavtal med Svenska Spel kan specialidrottsförbund (SF) få ~100k per år med diverse marknadsförningsaktiviteter som motprestation (logga på hemsida, event, nyhetsbrev etc.). Mer info finns på [Google Drive](https://drive.google.com/drive/u/1/folders/0B16tG-NJecYuakJES1Rwd1V0QkE)
+
+# Lathundar för GF och föreningar
+
+Diverse lathundar finns på [Google Drive](https://drive.google.com/drive/u/1/folders/0B4IFYkiaeoLSUmlEU285M2FmeFk) och mailas till GF då uppdateringar görs.
+
+# Licenshantering
+
+Föreningarna får faktura för de medlemmar som har licens två (stämmer det?) gånger per år. På [Google Drive](https://drive.google.com/drive/u/1/folders/0B16tG-NJecYuNEpOWlU2VnlrRzQ) finns underlagen.
 
 # Input rutiner från kansliet
 
