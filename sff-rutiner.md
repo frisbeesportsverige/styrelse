@@ -22,7 +22,7 @@ Löpande bokföring görs i Fortnox. Rutiner finns [här](https://github.com/fri
 
 # FS-möten
 
-Dagordningar finns [här](https://github.com/frisbeesportsverige/styrelse/blob/master/dagordning.md) och underlag samt protokoll på [Google Drive](https://drive.google.com/drive/u/1/folders/0B7C0KQaKnWjGd1pBSTlyZDUtcWs)
+Dagordningar finns [här](https://github.com/frisbeesportsverige/styrelse/blob/master/dagordning.md) och underlag samt protokoll på [Google Drive](https://drive.google.com/drive/u/1/folders/0B7C0KQaKnWjGd1pBSTlyZDUtcWs). Protokollen publiceras på hemsidan när de är justerade, [länk](http://www.frisbeesport.se/svenskafrisbeesportforbundet/Dokumentbank/moteshandlingarforbundsstyrelse/)
 
 
 # Fördelningsnyckel
