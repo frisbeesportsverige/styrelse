@@ -37,6 +37,11 @@ Medlemförteckning finns på [Google Drive](https://drive.google.com/drive/u/1/f
 Mer information om föreningsregistret finns på [Google Drive](https://drive.google.com/drive/u/1/folders/0B7C0KQaKnWjGd3FTd1hBci1UZ3M)
 
 
+# Fördelningsnyckel
+
+En fördelningsnyckel används för att fördela medel mellan GF. Denna nyckel förhandlas fram mellan GF för respekive år. Underlag finns på [Google Drive](https://drive.google.com/drive/u/1/folders/0B16tG-NJecYudDZNem12QmVlV0E).
+
+
 ## Föreningsansökan
 
 Går ut mail från IdrottOnline när en förening ansöker om medlemskan eller vill ändra sitt medlemskap. Ska gå till styrelsen och beörda GF (oklart om det går att styra detta på GF i IO).
