@@ -39,25 +39,12 @@ Ett bra tillfälle att göra detta är samtidigt som medlemsregisret uppdateras.
 
 Medlemförteckning över föreningarna finns på [hemsidan](http://www.frisbeesport.se/foreningar/foreningsregister/)
 
+Rutin för uppdatera listan på hemsidan finns [här](./licens_o_klubblista.md)
+
+Rutin för underhåll av föreningar i idrottonline finns [här](./idrottonline.md)
+
 Mer information om föreningsregistret finns på [Google Drive](https://drive.google.com/drive/u/1/folders/0B7C0KQaKnWjGd3FTd1hBci1UZ3M)
 
-Föreningsregistret underhålls i Idrottonline. Det tas ut här:
-
-1. Administration
-2. Organisationer
-3. Markera Underliggande organisationer
-4. Sök
-
-
-Medlemmarna i föreningarna finns också i Idrottonline:
-
-1. Administration
-1. Statistik/rapporter
-1. Markera Statistik för den egna organisationen
-1. Skapa rapport, under namn skriv ex dagens datum, se till att det står aktiv på Rollkategori och Roll. Under Organisationer markera Denna och underliggande organisationer
-1. Skapa rapport till fil
-1. Välj kolumner som är intressant och klicka på välj
-1. Klicka på Rapporter längst ner och klicka sedan på Uppdatera ute till höger så är det klart, sedan bara klicka på din namngivna rapport
 
 ## Föreningsansökan
 
@@ -72,15 +59,6 @@ Diverse lathundar finns på [Google Drive](https://drive.google.com/drive/u/1/fo
 # Licenshantering
 
 Föreningarna får faktura för de medlemmar som har licens två (stämmer det?) gånger per år. På [Google Drive](https://drive.google.com/drive/u/1/folders/0B16tG-NJecYuNEpOWlU2VnlrRzQ) finns underlagen.
-
-Om du bara vill ha ut en lista över licensierade så gäller
-
-1. Licenser
-1. Personlicenser
-1. Välj Licenser
-1. Markera allt gm att klicka i Välj men avmarkera PDGA rutorna
-1. Klicka på Sök
-1. Exportera till Excel
 
 Licenslista på hemsidan uppdateras 1 gång/vecka under tidigare del av året sedan 2 ggr/vecka då det händer destomer vad gäller nya licenser. Licenserna läggs in i en databas och syns sedan [här](http://www.frisbeesport.se/svenskafrisbeesportforbundet/tavlingslicens/Aktuellalicenser/).
 
