@@ -26,7 +26,7 @@ En semesterlista ska läggas upp för varje kalenderår på Google Drive. Här l
 
 # RF:s och Svenska Spels elitidrottsstipendium 
 
-SFF rangordnar tillsammans med GF de ansökningar som kommer in och skickar sedan vidare till RF. Mer information finns på [svenskidrott.se(http://www.svenskidrott.se/Elitidrott/Elitidrottsstipendium)
+SFF rangordnar tillsammans med GF de ansökningar som kommer in och skickar sedan vidare till RF. Mer information finns på [svenskidrott.se](http://www.svenskidrott.se/Elitidrott/Elitidrottsstipendium)
 
 
 # Samarbetsavtal Svenska Spel
