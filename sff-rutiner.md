@@ -49,7 +49,7 @@ Föreningsregistret underhålls i Idrottonline. Det tas ut här:
 4. Sök
 
 
-Medlemmarna i föreningarna (de med licens) finns också i Idrottonline:
+Medlemmarna i föreningarna finns också i Idrottonline:
 
 1. Administration
 1. Statistik/rapporter
@@ -57,7 +57,7 @@ Medlemmarna i föreningarna (de med licens) finns också i Idrottonline:
 1. Skapa rapport, under namn skriv ex dagens datum, se till att det står aktiv på Rollkategori och Roll. Under Organisationer markera Denna och underliggande organisationer
 1. Skapa rapport till fil
 1. Välj kolumner som är intressant och klicka på välj
-1. Klicka på Rapporter längst ner och klicka sedan på Uppdatera ute till höger så är det klart,s nedan bara klicka på din namngivna rapport, aktuell rapport kan se ut så här
+1. Klicka på Rapporter längst ner och klicka sedan på Uppdatera ute till höger så är det klart, sedan bara klicka på din namngivna rapport
 
 ## Föreningsansökan
 
@@ -72,6 +72,20 @@ Diverse lathundar finns på [Google Drive](https://drive.google.com/drive/u/1/fo
 # Licenshantering
 
 Föreningarna får faktura för de medlemmar som har licens två (stämmer det?) gånger per år. På [Google Drive](https://drive.google.com/drive/u/1/folders/0B16tG-NJecYuNEpOWlU2VnlrRzQ) finns underlagen.
+
+Om du bara vill ha ut en lista över licensierade så gäller
+
+1/ Licenser
+2/ Personlicenser
+3/ Välj Licenser
+4/ Markera allt gm att klicka i Välj men avmarkera PDGA rutorna
+
+Skärmavbild 2017-07-18 kl. 15.13.15.png
+
+5/ Klicka på Sök
+6/ Exportera till Excel
+
+Licenslista på hemsidan uppdateras 1 gång/vecka, under tidigare del av året sedna 2 ggr/vecka då det händer destomer vad gäller nya licenser. Licenserna läggs in i en databas och syns sedan på http://www.frisbeesport.se/svenskafrisbeesportforbundet/tavlingslicens/Aktuellalicenser/
 
 
 # Officiell kommunikation
