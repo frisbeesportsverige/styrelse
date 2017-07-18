@@ -29,7 +29,7 @@ Förslag på datum:
 * FS Möte 3 - 23/5 20:00-21:30
 * FS Möte 4 - 13/6 20:00-21:30
 * FS Möte 5 - 18/7 20:00-21:30
-* FS Möte 6 - 15/8
+* FS Möte 6 - 15/8 20:00-21:30
 * FS Möte 7 - 12/9
 * FS Möte 8 - 10/10
 * FS Möte 9 - 14/11
@@ -165,12 +165,34 @@ Förslag på datum:
 1. Föregående protokoll
 1. Att göra lista
 1. Kanslirapport
-1. BESLUT: Kontraktering av föreningskonsulent [Jonas ansvarig]
-1. BESLUT: Utbetalning statsanslag till GF [Stefan]
-1. Status arbete med Strategisk plan [Martin ansvarig]
+1. Genomgång halvårsbokslut [Stefan]
+1. BESLUT: Fördelningsnyckel [Martin]
+1. BESLUT: Utvecklingsplan IL 2018-2019 [Jonas]
+1. BESLUT: Arbetsbeskrivning kansliet [Jonas & Stefan]
+1. Input till arbete i WFDF bylaws task force [Jonas]
 1. Övrigt
 1. Nästa möte
 1. Mötets avslutande
+
+
+## Dagordning FS-möte 7
+
+1. Mötets öppnande
+1. Val av mötesordförande
+1. Val av mötesekreterare
+1. Val av justeringsman
+1. Godkännande av dagordning
+1. Föregående protokoll
+1. Att göra lista
+1. Kanslirapport
+1. BESLUT: Kontraktering av föreningskonsulent [Jonas]
+1. BESLUT: Utbetalning statsanslag till GF [Stefan]
+1. Status arbete med Strategisk plan [Martin]
+1. Status Uppdaterad plan mot doping och matchfixing (enl. verksamhetsplan 2017) [Patrik & Stina]
+1. Övrigt
+1. Nästa möte
+1. Mötets avslutande
+
 
 ## Mall dagordningar planerade FS-möten
 
