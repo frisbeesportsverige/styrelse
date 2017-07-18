@@ -67,7 +67,7 @@ Förbund har möjlighet att ansöka på medel för projekt inriktade på ungdoms
 
 # WFDF
 
-Statistik ska skickas in till WFDF en gång per år. Kongresser brukar hållas en gång per år i samband med en WFDF sdanktionerad tävling.
+Statistik ska skickas in till WFDF en gång per år. Kongresser brukar hållas en gång per år i samband med en WFDF sdanktionerad tävling. Kongressmaterial etc. finns på [Google Drive](https://drive.google.com/drive/u/1/folders/0B16tG-NJecYuR3U1NmZCRElwWHc).
 
 
 # Input rutiner från kansliet
