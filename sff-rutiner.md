@@ -14,17 +14,20 @@ Går ut mail från IdrottOnline när en förening ansöker om medlemskan eller v
 **TODO: Lägg in länk till föreningsregister på Google Drive** ***Var på Google Drive ska den läggas?***
 
 
+# Lathundar för GF och föreningar
+
+Diverse lathundar finns på [Google Drive](https://drive.google.com/drive/u/1/folders/0B4IFYkiaeoLSUmlEU285M2FmeFk) och mailas till GF då uppdateringar görs.
+
+# Licenshantering
+
+Föreningarna får faktura för de medlemmar som har licens två (stämmer det?) gånger per år. På [Google Drive](https://drive.google.com/drive/u/1/folders/0B16tG-NJecYuNEpOWlU2VnlrRzQ) finns underlagen.
+
+
 # Officiell kommunikation
 
 I all kommunikation som går ut från kansliet är det viktigt att styrelsen är informerad. styrelsen@frisbeepsort.se ska vara cc:ad i alla
 officiella mail från kansliset.
 
-
-# Semesterplanering
-
-En semesterlista ska läggas upp för varje kalenderår på Google Drive. Här lägger personal in semster som planerats in. Styrelseledamötet lägger in perioder då man inte är tillgänglig för FS-möten.
-
-[Semesterplanering för 2017](https://docs.google.com/spreadsheets/d/12UTxoUhcyvAQXzLOolgSjnZAyPe50Fnnz-P8Svwatj0/edit#gid=0)
 
 # RF:s och Svenska Spels elitidrottsstipendium 
 
@@ -35,13 +38,13 @@ SFF rangordnar tillsammans med GF de ansökningar som kommer in och skickar seda
 
 Genom ett samarbetsavtal med Svenska Spel kan specialidrottsförbund (SF) få ~100k per år med diverse marknadsförningsaktiviteter som motprestation (logga på hemsida, event, nyhetsbrev etc.). Mer info finns på [Google Drive](https://drive.google.com/drive/u/1/folders/0B16tG-NJecYuakJES1Rwd1V0QkE)
 
-# Lathundar för GF och föreningar
 
-Diverse lathundar finns på [Google Drive](https://drive.google.com/drive/u/1/folders/0B4IFYkiaeoLSUmlEU285M2FmeFk) och mailas till GF då uppdateringar görs.
+# Semesterplanering
 
-# Licenshantering
+En semesterlista ska läggas upp för varje kalenderår på Google Drive. Här lägger personal in semster som planerats in. Styrelseledamötet lägger in perioder då man inte är tillgänglig för FS-möten.
 
-Föreningarna får faktura för de medlemmar som har licens två (stämmer det?) gånger per år. På [Google Drive](https://drive.google.com/drive/u/1/folders/0B16tG-NJecYuNEpOWlU2VnlrRzQ) finns underlagen.
+[Semesterplanering för 2017](https://docs.google.com/spreadsheets/d/12UTxoUhcyvAQXzLOolgSjnZAyPe50Fnnz-P8Svwatj0/edit#gid=0)
+
 
 # Input rutiner från kansliet
 
