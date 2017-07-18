@@ -37,14 +37,31 @@ Det är viktigt att registret över medlemsföreningar är uppdaterat inför 31/
 En avstämnning av mailadresserna i Google Gruppen klubbmail@frisbeesport.se ska göras minst en gång per år.
 Ett bra tillfälle att göra detta är samtidigt som medlemsregisret uppdateras. Google Gruppen administreras [här](https://groups.google.com/a/frisbeesport.se/d/forum/klubbmail)
 
-Medlemförteckning finns på [Google Drive](https://drive.google.com/drive/u/1/folders/0B7C0KQaKnWjGd3FTd1hBci1UZ3M)
+Medlemförteckning över föreningarna finns på [hemsidan](http://www.frisbeesport.se/foreningar/foreningsregister/)
 
 Mer information om föreningsregistret finns på [Google Drive](https://drive.google.com/drive/u/1/folders/0B7C0KQaKnWjGd3FTd1hBci1UZ3M)
 
+Föreningsregistret underhålls i Idrottonline. Det tas ut här:
+
+1. Administration
+2. Organisationer
+3. Markera Underliggande organisationer
+4. Sök
+
+
+Medlemmarna i föreningarna (de med licens) finns också i Idrottonline:
+
+1. Administration
+1. Statistik/rapporter
+1. Markera Statistik för den egna organisationen
+1. Skapa rapport, under namn skriv ex dagens datum, se till att det står aktiv på Rollkategori och Roll. Under Organisationer markera Denna och underliggande organisationer
+1. Skapa rapport till fil
+1. Välj kolumner som är intressant och klicka på välj
+1. Klicka på Rapporter längst ner och klicka sedan på Uppdatera ute till höger så är det klart,s nedan bara klicka på din namngivna rapport, aktuell rapport kan se ut så här
 
 ## Föreningsansökan
 
-Går ut mail från IdrottOnline när en förening ansöker om medlemskan eller vill ändra sitt medlemskap. Ska gå till styrelsen och beörda GF (oklart om det går att styra detta på GF i IO).
+Går ut mail från Idrottonline när en förening ansöker om medlemskan eller vill ändra sitt medlemskap. Ska gå till styrelsen och beörda GF (oklart om det går att styra detta på GF i IO).
 
 
 # Lathundar för GF och föreningar
