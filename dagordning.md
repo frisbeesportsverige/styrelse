@@ -27,8 +27,8 @@ Förslag på datum:
 * FS Möte 1 - 2/5 20:00-20:30
 * FS Möte 2 - 2/5 20:30-21:30
 * FS Möte 3 - 23/5 20:00-21:30
-* FS Möte 4 - 13/6
-* FS Möte 5 - 18/7
+* FS Möte 4 - 13/6 20:00-21:30
+* FS Möte 5 - 18/7 20:00-21:30
 * FS Möte 6 - 15/8
 * FS Möte 7 - 12/9
 * FS Möte 8 - 10/10
@@ -139,15 +139,17 @@ Förslag på datum:
 1. Val av mötesekreterare
 1. Val av justeringsman
 1. Godkännande av dagordning
-1. Kanslirapport
-1. BESLUT: Fördelningsnyckel [Martin]
-1. BESLUT: Utvecklingsplan IL 2018-2019 [Jonas]
-1. BESLUT: Arbetsbeskrivning kansliet [Jonas & Stefan ansvariga]
-1. BESLUT: Förbättrat stöd till föreningar (enl. verksamhetsplan 2017) [Peter ansvarig]
-1. Input till arbete i WFDF bylaws task force [Jonas]
+1. Föregående protokoll
+1. Att göra lista
+1. Kanslirapport (-20:15)
+1. BESLUT: Fördelningsnyckel [Martin] (-20:30)
+1. BESLUT: Utvecklingsplan IL 2018-2019 [Jonas] (-20:45)
+1. BESLUT: Arbetsbeskrivning kansliet [Jonas & Stefan ansvariga] (-21:00)
+1. BESLUT: Förbättrat stöd till föreningar (enl. verksamhetsplan 2017) [Peter ansvarig] (-21:05)
+1. Input till arbete i WFDF bylaws task force [Jonas] (-21:20)
 1. Representant Elitidrottskonferens 12-13 oktober, Scandic Infra City, Upplands-Väsby (ansvarig utvecklingsplanen) [Jonas]
 1. Status arbete med Strategisk plan [Martin ansvarig]
-1. Samarbetsavtal Svenska Spel - SFF måste svara före sista augusti [Peter]
+1. Samarbetsavtal Svenska Spel - SFF måste svara före sista augusti [Peter] (-21:30)
 1. Övrigt
 1. Nästa möte
 1. Mötets avslutande
