@@ -4,7 +4,7 @@
 
 Ansökan om SF-stöd ska skickas in en gång per år tillsammans med diverse statistik. Deadline brukar ligga i augusti. Info för 2018 finns på [Google Drive](https://drive.google.com/drive/u/1/folders/0B16tG-NJecYuSjNDRkxoNzktQVk).
 
-# Samarbetsavtal Svenska Spel
+## Samarbetsavtal Svenska Spel
 
 Genom ett samarbetsavtal med Svenska Spel kan specialidrottsförbund (SF) få ~100k per år med diverse marknadsförningsaktiviteter som motprestation (logga på hemsida, event, nyhetsbrev etc.). Mer info finns på [Google Drive](https://drive.google.com/drive/u/1/folders/0B16tG-NJecYuakJES1Rwd1V0QkE).
 
