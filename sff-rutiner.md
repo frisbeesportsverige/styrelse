@@ -25,6 +25,11 @@ Löpande bokföring görs i Fortnox. Rutiner finns [här](https://github.com/fri
 Dagordningar finns [här](https://github.com/frisbeesportsverige/styrelse/blob/master/dagordning.md) och underlag samt protokoll på [Google Drive](https://drive.google.com/drive/u/1/folders/0B7C0KQaKnWjGd1pBSTlyZDUtcWs)
 
 
+# Fördelningsnyckel
+
+En fördelningsnyckel används för att fördela medel mellan GF. Denna nyckel förhandlas fram mellan GF för respekive år. Underlag finns på [Google Drive](https://drive.google.com/drive/u/1/folders/0B16tG-NJecYudDZNem12QmVlV0E).
+
+
 # Föreningsregister
 
 Det är viktigt att registret över medlemsföreningar är uppdaterat inför 31/12 då röstlängden bestäms. Underlaget från kansliet till styrelsen som fastställer röstlängden ska inkludera uppgift om när medlemsavgift betalats, medlemskap i grenförbund samt kopia på senaste årsmötesprotokoll. Styrelsen ska alltid informeras då förening läggs till och tas bort ur registret, med underlaget för detta bifogat.
@@ -35,11 +40,6 @@ Ett bra tillfälle att göra detta är samtidigt som medlemsregisret uppdateras.
 Medlemförteckning finns på [Google Drive](https://drive.google.com/drive/u/1/folders/0B7C0KQaKnWjGd3FTd1hBci1UZ3M)
 
 Mer information om föreningsregistret finns på [Google Drive](https://drive.google.com/drive/u/1/folders/0B7C0KQaKnWjGd3FTd1hBci1UZ3M)
-
-
-# Fördelningsnyckel
-
-En fördelningsnyckel används för att fördela medel mellan GF. Denna nyckel förhandlas fram mellan GF för respekive år. Underlag finns på [Google Drive](https://drive.google.com/drive/u/1/folders/0B16tG-NJecYudDZNem12QmVlV0E).
 
 
 ## Föreningsansökan
