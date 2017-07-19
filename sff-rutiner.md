@@ -4,7 +4,7 @@
 
 "Genom Framåtfonden ger Svenska Spel och Riksidrottsförbundet samtliga SF en möjlighet att söka medel för att testa era idéer kring nya former av fysisk aktivitet för att få fler i rörelse och skapa rörelseförståelse för fler!"
 
-Mer info [här](http://www.svenskidrott.se/ekonomisktstod/framatfonden)
+Mer info [här](http://www.svenskidrott.se/ekonomisktstod/framatfonden).
 
 ## SF-stöd
 
