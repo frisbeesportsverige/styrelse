@@ -2,6 +2,21 @@
 
 # Fortnox
 
+## Leverantörsfakturor
+
+Lägg upp nya leverantörer under Register -> Leverantörer.
+
+Skapa leverantörsfakturor under Leverantörsfakturor -> Skapa ny.
+
+### Attest
+
+Fakturor som överstiger XX kronor ska attesteras av två styrelseledamöter. Attestering görs i Google Drive:
+
+1. Gå till Ekonomi -> Attester -> Högerklicka -> Välj Kalkylark -> Från en mall -> Attest Utbetalning
+1. Spara en kopia på faktura i samma Google Drive map
+1. Maila länk till till mappen med Attester till de som ska attestera
+
+
 ## Fakturering
 
 Artiklar måste vara upplagda för att kunna fakturera. Artiklar finns under `Register->Artiklar`.
