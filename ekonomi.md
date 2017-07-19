@@ -10,7 +10,7 @@ Skapa leverantörsfakturor under Leverantörsfakturor -> Skapa ny.
 
 ### Attest
 
-Fakturor som överstiger XX kronor ska attesteras av två styrelseledamöter. Attestering görs i Google Drive:
+Fakturor som överstiger 20.000 kronor ska attesteras av två styrelseledamöter enligt konstituerande styrelsebeslut. Attestering görs i Google Drive:
 
 1. Gå till Ekonomi -> Attester -> Högerklicka -> Välj Kalkylark -> Från en mall -> Attest Utbetalning
 1. Spara en kopia på faktura i samma Google Drive map
