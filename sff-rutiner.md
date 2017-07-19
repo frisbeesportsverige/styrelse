@@ -1,5 +1,11 @@
 # Bidrag
 
+## Framåtfonden
+
+"Genom Framåtfonden ger Svenska Spel och Riksidrottsförbundet samtliga SF en möjlighet att söka medel för att testa era idéer kring nya former av fysisk aktivitet för att få fler i rörelse och skapa rörelseförståelse för fler!"
+
+Mer info [här](http://www.svenskidrott.se/ekonomisktstod/framatfonden)
+
 ## SF-stöd
 
 Ansökan om SF-stöd ska skickas in en gång per år tillsammans med diverse statistik. Deadline brukar ligga i augusti. Info för 2018 finns på [Google Drive](https://drive.google.com/drive/u/1/folders/0B16tG-NJecYuSjNDRkxoNzktQVk).
