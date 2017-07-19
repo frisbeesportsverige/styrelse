@@ -166,6 +166,7 @@ Förslag på datum:
 1. Att göra lista
 1. Kanslirapport
 1. Genomgång halvårsbokslut [Stefan]
+1. Genomgång av gällande avtal [Peter]
 1. BESLUT: Fördelningsnyckel [Martin]
 1. BESLUT: Utvecklingsplan IL 2018-2019 [Jonas]
 1. BESLUT: Arbetsbeskrivning kansliet [Jonas & Stefan]
