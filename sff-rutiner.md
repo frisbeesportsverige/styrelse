@@ -61,6 +61,15 @@ Går ut mail från Idrottonline när en förening ansöker om medlemskan eller v
 
 Diverse lathundar finns på [Google Drive](https://drive.google.com/drive/u/1/folders/0B4IFYkiaeoLSUmlEU285M2FmeFk) och mailas till GF då uppdateringar görs.
 
+* Administration IdrottOnline
+* Att starta en förening
+* Avtal för våra föreningar
+* Försäkringsvillkor medlemsföreningar
+* Försäkringsvillkor spelare
+* Hur ansöker man om LOK-stöd
+* Licenshantering via IdrottOnline
+* Så här startar du utbildning i din förening
+
 
 # Licenshantering
 
