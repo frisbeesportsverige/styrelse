@@ -2,6 +2,8 @@
 
 # Fortnox
 
+Fortnox har en egen YouTube-kanal med bra [informationsfilmer](https://www.youtube.com/user/FortnoxAB).
+
 ## Leverantörsfakturor
 
 Lägg upp nya leverantörer under Register -> Leverantörer.
