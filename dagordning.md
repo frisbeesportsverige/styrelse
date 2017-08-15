@@ -212,6 +212,8 @@ Förslag på datum:
 1. BESLUT: Utbetalning statsanslag till GF [Stefan]
 1. Status arbete med Strategisk plan [Martin]
 1. Status Uppdaterad plan mot doping och matchfixing (enl. verksamhetsplan 2017) [Patrik & Stina]
+1. Ärendehanteringssystem [Jonas]
+1. Förbättrade ekonomirutiner [Jonas]
 1. Övrigt
 1. Nästa möte
 1. Mötets avslutande
