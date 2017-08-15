@@ -189,6 +189,25 @@ Förslag på datum:
 1. Föregående protokoll
 1. Att göra lista
 1. Kanslirapport
+1. Genomgång av gällande avtal [Peter]
+1. BESLUT: Fördelningsnyckel [Martin]
+1. BESLUT: Utvecklingsplan IL 2018-2019 [Jonas]
+1. BESLUT: Arbetsbeskrivning kansliet [Jonas & Stefan]
+1. Övrigt
+1. Nästa möte
+1. Mötets avslutande
+
+
+## Dagordning FS-möte 8
+
+1. Mötets öppnande
+1. Val av mötesordförande
+1. Val av mötesekreterare
+1. Val av justeringsman
+1. Godkännande av dagordning
+1. Föregående protokoll
+1. Att göra lista
+1. Kanslirapport
 1. BESLUT: Kontraktering av föreningskonsulent [Jonas]
 1. BESLUT: Utbetalning statsanslag till GF [Stefan]
 1. Status arbete med Strategisk plan [Martin]
