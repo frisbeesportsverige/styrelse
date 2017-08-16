@@ -12,28 +12,28 @@ Ansökan om SF-stöd ska skickas in en gång per år tillsammans med diverse sta
 
 ## Samarbetsavtal Svenska Spel
 
-Genom ett samarbetsavtal med Svenska Spel kan specialidrottsförbund (SF) få ~100k per år med diverse marknadsförningsaktiviteter som motprestation (logga på hemsida, event, nyhetsbrev etc.). Mer info finns på [Google Drive](https://drive.google.com/drive/u/1/folders/0B16tG-NJecYuakJES1Rwd1V0QkE).
+Genom ett samarbetsavtal med Svenska Spel kan specialidrottsförbund (SF) få ~100k per år med diverse marknadsförningsaktiviteter som motprestation (logga på hemsida, event, nyhetsbrev etc.). Mer info finns på [Google Drive](./gsuite.md).
 
 ## Utvecklingsplan / Idrottslyft
 
-Förbund har möjlighet att ansöka på medel för projekt inriktade på ungdomsverksamhet. Dessa medel är i samma storlekordning som det ordinarie SF-stödet. Mer information finns på [Google Drive](https://drive.google.com/drive/u/1/folders/0B16tG-NJecYuRjRhQlpDOTZZOEk).
+Förbund har möjlighet att ansöka på medel för projekt inriktade på ungdomsverksamhet. Dessa medel är i samma storlekordning som det ordinarie SF-stödet. Mer information finns på [Google Drive](./gsuite.md).
 
-Medel som beviljas för IL används i de projekt som godkänts i utvecklingsplanen. RF gör ekonomisk uppföljning av dessa projekt. I övrigt är FS är fria att styra sina projekt själva. En projektmodell som GF kan använda för att styra sina projekt finns [här](https://github.com/frisbeesportsverige/styrelse/blob/master/projektmodell.md)
+Medel som beviljas för IL används i de projekt som godkänts i utvecklingsplanen. RF gör ekonomisk uppföljning av dessa projekt. I övrigt är FS är fria att styra sina projekt själva. En projektmodell som GF kan använda för att styra sina projekt finns [här](./projektmodell.md)
 
 
 # Ekonomi
 
-Löpande bokföring görs i Fortnox. Rutiner finns [här](https://github.com/frisbeesportsverige/styrelse/blob/master/ekonomi.md). Bokslut görs av kansliet och revideras av revisor som välj av årsmötet.
+Löpande bokföring görs i Fortnox. Rutiner finns [här](./ekonomi.md). Bokslut görs av kansliet och revideras av revisor som välj av årsmötet.
 
 
 # FS-möten
 
-Dagordningar finns [här](https://github.com/frisbeesportsverige/styrelse/blob/master/dagordning.md) och underlag samt protokoll på [Google Drive](https://drive.google.com/drive/u/1/folders/0B7C0KQaKnWjGd1pBSTlyZDUtcWs). Protokollen publiceras på hemsidan när de är justerade, [länk](http://www.frisbeesport.se/svenskafrisbeesportforbundet/Dokumentbank/moteshandlingarforbundsstyrelse/)
+Dagordningar finns [här](./dagordning.md) och underlag samt protokoll på [Google Drive](./gsuite.md). Protokollen publiceras på hemsidan när de är justerade, [länk](http://www.frisbeesport.se/svenskafrisbeesportforbundet/Dokumentbank/moteshandlingarforbundsstyrelse/)
 
 
 # Fördelningsnyckel
 
-En fördelningsnyckel används för att fördela medel mellan GF. Denna nyckel förhandlas fram mellan GF för respekive år. Underlag finns på [Google Drive](https://drive.google.com/drive/u/1/folders/0B16tG-NJecYudDZNem12QmVlV0E).
+En fördelningsnyckel används för att fördela medel mellan GF. Denna nyckel förhandlas fram mellan GF för respekive år. Underlag finns på [Google Drive](./gsuite.md).
 
 
 # Föreningsregister
@@ -49,7 +49,7 @@ Rutin för uppdatera listan på hemsidan finns [här](./licens_o_klubblista.md)
 
 Rutin för underhåll av föreningar i idrottonline finns [här](./idrottonline.md)
 
-Mer information om föreningsregistret finns på [Google Drive](https://drive.google.com/drive/u/1/folders/0B7C0KQaKnWjGd3FTd1hBci1UZ3M)
+Mer information om föreningsregistret finns på [Google Drive](./gsuite.md)
 
 
 ## Föreningsansökan
@@ -59,7 +59,7 @@ Går ut mail från Idrottonline när en förening ansöker om medlemskan eller v
 
 # Lathundar för GF och föreningar
 
-Diverse lathundar finns på [Google Drive](https://drive.google.com/drive/u/1/folders/0B4IFYkiaeoLSUmlEU285M2FmeFk) och mailas till GF då uppdateringar görs.
+Diverse lathundar finns på [Google Drive](./gsuite.md) och mailas till GF då uppdateringar görs.
 
 * Administration IdrottOnline
 * Att starta en förening
@@ -73,7 +73,7 @@ Diverse lathundar finns på [Google Drive](https://drive.google.com/drive/u/1/fo
 
 # Licenshantering
 
-Föreningarna får faktura för de medlemmar som har licens två (stämmer det?) gånger per år. På [Google Drive](https://drive.google.com/drive/u/1/folders/0B16tG-NJecYuNEpOWlU2VnlrRzQ) finns underlagen.
+Föreningarna får faktura för de medlemmar som har licens två (stämmer det?) gånger per år. På [Google Drive](./gsuite.md) finns underlagen.
 
 Licenslista på hemsidan uppdateras 1 gång/vecka under tidigare del av året sedan 2 ggr/vecka då det händer destomer vad gäller nya licenser. Licenserna läggs in i en databas och syns sedan [här](http://www.frisbeesport.se/svenskafrisbeesportforbundet/tavlingslicens/Aktuellalicenser/).
 
@@ -103,7 +103,7 @@ En semesterlista ska läggas upp för varje kalenderår på Google Drive. Här l
 
 # Stadgar
 
-Stadgarna ändras vid årsmöten efter proposition från styrelsen eller motion från medlem. Stadgarna finns på [Google Drive](https://drive.google.com/drive/u/1/folders/0B16tG-NJecYudm9rNWh4VEJtVDQ) och publiceras på [hemsidan](http://www.frisbeesport.se/Dokumentbank/Dokument/Stadgar). Här ska även GF:s stadgar läggas.
+Stadgarna ändras vid årsmöten efter proposition från styrelsen eller motion från medlem. Stadgarna finns på [Google Drive](./gsuite.md) och publiceras på [hemsidan](http://www.frisbeesport.se/Dokumentbank/Dokument/Stadgar). Här ska även GF:s stadgar läggas.
 
 
 # Verksamhetsplan
@@ -114,12 +114,12 @@ Underlaget för verksamhetsplanen finns tillsammans med budget etc. tillsammans 
 
 # WFDF
 
-Statistik ska skickas in till WFDF en gång per år. Kongresser brukar hållas en gång per år i samband med en WFDF sdanktionerad tävling. Kongressmaterial etc. finns på [Google Drive](https://drive.google.com/drive/u/1/folders/0B16tG-NJecYuR3U1NmZCRElwWHc).
+Statistik ska skickas in till WFDF en gång per år. Kongresser brukar hållas en gång per år i samband med en WFDF sdanktionerad tävling. Kongressmaterial etc. finns på [Google Drive](./gsuite.md).
 
 
 # Årsmöten
 
-Material finns på [Google Drive](https://drive.google.com/drive/u/1/folders/0B7C0KQaKnWjGV1BzR2l6YXlxUWs) och publiceras på [hemsidan](http://www.frisbeesport.se/svenskafrisbeesportforbundet/Dokumentbank/arsmoteshandlingar/). Protokoll från årsmöten publiceras på [hemsidan](http://www.frisbeesport.se/Dokumentbank/Dokument/Protokollarsmote/)
+Material finns på [Google Drive](./gsuite.md) och publiceras på [hemsidan](http://www.frisbeesport.se/svenskafrisbeesportforbundet/Dokumentbank/arsmoteshandlingar/). Protokoll från årsmöten publiceras på [hemsidan](http://www.frisbeesport.se/Dokumentbank/Dokument/Protokollarsmote/)
 
 
 # Input rutiner från kansliet
@@ -146,4 +146,4 @@ Material finns på [Google Drive](https://drive.google.com/drive/u/1/folders/0B7
 
 * Förbereda FS-möten, sekreterare och deltar på alla FS-möten om möjligt
 
-Mer info om kanslirutiner finns på [Goolge Drive](https://drive.google.com/drive/u/1/folders/0B7C0KQaKnWjGbjAwUk1GTGVpWjg)
+Mer info om kanslirutiner finns på [Google Drive](./gsuite.md)
