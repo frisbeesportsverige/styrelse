@@ -8,7 +8,7 @@ Mer info [här](http://www.svenskidrott.se/ekonomisktstod/framatfonden).
 
 ## SF-stöd
 
-Ansökan om SF-stöd ska skickas in en gång per år tillsammans med diverse statistik. Deadline brukar ligga i augusti. Info för 2018 finns på [Google Drive](https://drive.google.com/drive/u/1/folders/0B16tG-NJecYuSjNDRkxoNzktQVk).
+Ansökan om SF-stöd ska skickas in en gång per år tillsammans med diverse statistik. Deadline brukar ligga i augusti. Info för 2018 finns på [Google Drive](./g-suite.md).
 
 ## Samarbetsavtal Svenska Spel
 
