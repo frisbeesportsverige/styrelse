@@ -30,7 +30,11 @@ Vårt internationella organ, World Flying Disc Federation (WFDF), hade sin förs
 
 ## SFF Strategi och organisation
 
-De olika grenarna inom frisbeesporten skiljer sig relativt mycket från varandra vilket lockar olika typer av utövare. För att bättre tillgodose de olika disciplinernas behov omorganiserades Svenska Frisbeeportförbundet 2016 i fyra förbund: ett paraplyförbund med de tre grenförbunden Allround, Discgolf och Ultimate. Grenförbunden är autonoma ideela organisationer med egna årsmöten, styrelser och ekonomier. Syftet med SFF är att vara länken till RF och fördela medel till grenföbunden.
+De olika grenarna inom frisbeesporten skiljer sig relativt mycket från varandra vilket lockar olika typer av utövare. För att bättre tillgodose de olika disciplinernas behov omorganiserades Svenska Frisbeeportförbundet 2016 i fyra förbund: ett paraplyförbund med de tre grenförbunden Allround, Discgolf och Ultimate. 
+
+Stadgarna anger följande organisatorska grundprincip: "Förbundet överlåter i största möjliga utsträckning beslutanderätt i såväl nationella som internationella grenspecifika frågor till grenförbunden."
+
+Grenförbunden är autonoma ideela organisationer med egna årsmöten, styrelser och ekonomier. Syftet med SFF är att vara länken till RF och fördela medel till grenföbunden.
 
 
 ## Referenser
