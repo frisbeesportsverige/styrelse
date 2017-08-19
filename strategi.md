@@ -39,5 +39,5 @@ RF:s och WFDF:s strategier är på flera punkter likartade och SFF ser dessa som
 
 ## Referenser
 
-1. [RF Strategi 2026](http://www.strategi2025.se)
+1. [RF:s Strategi 2025](http://www.strategi2025.se)
 2. [WFDF Strategic plan 2015-2018](http://www.wfdf.org/files/WFDF_Strategic_Plan_2015-2018_Final.pdf)
