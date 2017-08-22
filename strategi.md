@@ -51,8 +51,8 @@ Genom att utveckla en **utbildningstrappa för tränare och ledare** ger vi leda
 
 ## Fotot
 
-<sup>1</sup>: Lagen samlas i en cirkel efter matchen och tackar, diskuterar och ger feedback
+<sup>1</sup> Lagen samlas i en cirkel efter matchen och tackar, diskuterar och ger feedback
 
-<sup>2</sup>: Ett standardiserat utvärderingsformulär innehållande kriterierna: Rules Knowledge and Use, Fouls and Body Contact, Fair-Mindedness,  Positive Attitude and Self-Control, Communication. Höga och låga betyg ska motiveras i text.
+<sup>2</sup> Ett standardiserat utvärderingsformulär innehållande kriterierna: Rules Knowledge and Use, Fouls and Body Contact, Fair-Mindedness,  Positive Attitude and Self-Control, Communication. Höga och låga betyg ska motiveras i text.
 
 
