@@ -1,3 +1,11 @@
+# Checklista med viktiga aktiviteter för en typiskt FS-år
+
+* Ansökan Ekonomiskt stöd för FS - deadline brukar vara augusti
+* Ansökan/uppdaterad utvecklingsplan för Idrottslyft
+* Kallelse till årsmöte - tre månader före mötet
+* Material till årsmöte - tre veckor innan mötet
+* Säkerställa att fördelningsnyckel blir framtagen och signerad av GF - före första utbetalningen av statsanslag (slutet av januari)
+
 # Bidrag
 
 ## Framåtfonden
