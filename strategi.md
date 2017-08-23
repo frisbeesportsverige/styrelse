@@ -1,8 +1,6 @@
 
 # Strategi för Svenska Frisbeesportförbundet (SFF)
 
-***Status: UTKAST***
-
 ## Bakgrund
 
 Frisbeesporten består av ett antal olika discipliner och innehåller både individuella grenar och lagidrotter. Det finns grenar där fokus ligger på teknik och precision, och andra grenar som är väldigt fysiska till sin karaktär. En indelning som brukar användas är allround, discgolf och ultimate, men det finns ytterligare grenar som t.ex. fristil. Gemensamt är för de olika grenarna är frisbeen, eller discen som den brukar kallas inom sporten. En viktig del inom frisbeesporten är att utövarna själva dömer, det finns alltså ingen domare. "Spirit Of The Game" är ett centralt begrepp och verktyg som spirit circles<sup>1</sup> och spirit scores<sup>2</sup> har utvecklats. Frisbeesporten är en relativt ung idrott. Svenska Frisbeesportförbundet bildades 1974 och vi blev medlem i RF 1983.
