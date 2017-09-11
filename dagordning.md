@@ -189,11 +189,10 @@ Förslag på datum:
 1. Föregående protokoll
 1. Att göra lista
 1. Kanslirapport
-1. Genomgång av gällande avtal [Peter]
 1. BESLUT: Fördelningsnyckel [Martin]
-1. BESLUT: Utvecklingsplan IL 2018-2019 [Jonas]
-1. BESLUT: Arbetsbeskrivning kansliet [Jonas & Stefan]
-1. Övrigt
+1. Genomgång av gällande avtal [Peter]
+1. Arbetsbeskrivning kansliet [Jonas & Stefan]
+1. Övrigt - Kockums begäran att få ut brev från FS-styrelsen till SUF
 1. Nästa möte
 1. Mötets avslutande
 
@@ -208,14 +207,13 @@ Förslag på datum:
 1. Föregående protokoll
 1. Att göra lista
 1. Kanslirapport
-1. BESLUT: Kontraktering av föreningskonsulent [Jonas]
 1. BESLUT: Utbetalning statsanslag till GF [Stefan]
 1. Status arbete med Strategisk plan [Martin]
 1. Status Uppdaterad plan mot doping och matchfixing (enl. verksamhetsplan 2017) [Patrik & Stina]
 1. Ärendehanteringssystem [Jonas]
 1. Förbättrade ekonomirutiner [Jonas]
 1. Datum för årsmöte 2018 [Peter]
-1. Övrigt - Kockums begäran att få ut brev från FS-styrelsen till SUF
+1. Övrigt
 1. Nästa möte
 1. Mötets avslutande
 
