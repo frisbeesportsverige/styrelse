@@ -216,7 +216,7 @@ Förslag på datum:
 1. Förbättrade ekonomirutiner [Jonas]
 1. Datum för årsmöte 2018 [Peter]
 1. Övrigt
- - Kockums begäran att få ut brev från FS-styrelsen till SUF
+ * Kockums begäran att få ut brev från FS-styrelsen till SUF
 1. Nästa möte
 1. Mötets avslutande
 
