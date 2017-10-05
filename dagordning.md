@@ -211,6 +211,7 @@ Förslag på datum:
 1. Krav på SFF-föreningar from 2017 [Martin]
 1. Ärendehanteringssystem [Jonas]
 1. Datum för årsmöte 2018 [Peter]
+1. Tidslinje årsmöte 2018 samt fördelning av arbetsuppgifter [Jonas]
 1. Övrigt
 1. Nästa möte
 1. Mötets avslutande
@@ -227,6 +228,7 @@ Förslag på datum:
 1. Att göra lista
 1. Kanslirapport
 1. Process för att ta fram fördelningsnyckel för 2018
+1. Årsmöteshandlingar [Alla]
 1. ...
 1. Övrigt
 1. Nästa möte
