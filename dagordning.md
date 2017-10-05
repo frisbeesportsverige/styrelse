@@ -207,16 +207,14 @@ Förslag på datum:
 1. Föregående protokoll
 1. Att göra lista
 1. Kanslirapport
-1. Process för att ta fram fördelningsnyckel för 2018
-1. BESLUT: Utbetalning statsanslag till GF [Stefan]
-1. Status arbete med Strategisk plan [Martin]
-1. Status Uppdaterad plan mot doping och matchfixing (enl. verksamhetsplan 2017) [Patrik & Stina]
+1. Status fördelningsnyckel [Martin]
+1. Krav på SFF-föreningar from 2017 [Martin]
 1. Ärendehanteringssystem [Jonas]
-1. Förbättrade ekonomirutiner [Jonas]
 1. Datum för årsmöte 2018 [Peter]
 1. Övrigt
 1. Nästa möte
 1. Mötets avslutande
+
 
 ##  Dagordning FS-möte 9
 
@@ -228,10 +226,8 @@ Förslag på datum:
 1. Föregående protokoll
 1. Att göra lista
 1. Kanslirapport
-1. Status fördelningsnyckel [Martin]
-1. Krav på SFF-föreningar from 2017 [Martin]
-1. Ärendehanteringssystem [Jonas]
-1. Datum för årsmöte 2018 [Peter]
+1. Process för att ta fram fördelningsnyckel för 2018
+1. ...
 1. Övrigt
 1. Nästa möte
 1. Mötets avslutande
@@ -247,7 +243,7 @@ Förslag på datum:
 1. Föregående protokoll
 1. Att göra lista
 1. Kanslirapport
-1. Process för att ta fram fördelningsnyckel för 2018
+1. ...
 1. Övrigt
 1. Nästa möte
 1. Mötets avslutande
