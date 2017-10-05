@@ -209,6 +209,7 @@ Förslag på datum:
 1. Kanslirapport
 1. Status fördelningsnyckel [Martin]
 1. Krav på SFF-föreningar from 2017 [Martin]
+1. Planering av kansliet 2018 [Jonas] 
 1. Ärendehanteringssystem [Jonas]
 1. Datum för årsmöte 2018 [Peter]
 1. Tidslinje årsmöte 2018 samt fördelning av arbetsuppgifter [Jonas]
