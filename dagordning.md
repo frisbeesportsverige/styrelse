@@ -30,8 +30,8 @@ Förslag på datum:
 * FS Möte 4 - 13/6 20:00-21:30
 * FS Möte 5 - 18/7 20:00-21:30
 * FS Möte 6 - 15/8 20:00-21:30
-* FS Möte 7 - 12/9
-* FS Möte 8 - 10/10
+* FS Möte 7 - 12/9 20:00-21:30
+* FS Möte 8 - 10/10 20:00-21:30
 * FS Möte 9 - 14/11
 * FS Möte 10 - 12/12
 * FS Möte 11 - 9/1
@@ -214,6 +214,40 @@ Förslag på datum:
 1. Ärendehanteringssystem [Jonas]
 1. Förbättrade ekonomirutiner [Jonas]
 1. Datum för årsmöte 2018 [Peter]
+1. Övrigt
+1. Nästa möte
+1. Mötets avslutande
+
+##  Dagordning FS-möte 9
+
+1. Mötets öppnande
+1. Val av mötesordförande
+1. Val av mötesekreterare
+1. Val av justeringsman
+1. Godkännande av dagordning
+1. Föregående protokoll
+1. Att göra lista
+1. Kanslirapport
+1. Status fördelningsnyckel [Martin]
+1. Krav på SFF-föreningar from 2017 [Martin]
+1. Ärendehanteringssystem [Jonas]
+1. Datum för årsmöte 2018 [Peter]
+1. Övrigt
+1. Nästa möte
+1. Mötets avslutande
+
+
+## Dagordning FS-möte 10
+
+1. Mötets öppnande
+1. Val av mötesordförande
+1. Val av mötesekreterare
+1. Val av justeringsman
+1. Godkännande av dagordning
+1. Föregående protokoll
+1. Att göra lista
+1. Kanslirapport
+1. Process för att ta fram fördelningsnyckel för 2018
 1. Övrigt
 1. Nästa möte
 1. Mötets avslutande
