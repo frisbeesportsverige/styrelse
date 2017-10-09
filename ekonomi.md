@@ -10,7 +10,14 @@ Lägg upp nya leverantörer under Register -> Leverantörer.
 
 Skapa leverantörsfakturor under Leverantörsfakturor -> Skapa ny.
 
-### Attest
+### Attest i Fortnox
+
+Information om hur attest av leveranstörsfakturor sätts upp finns [här](https://support.fortnox.se/hc/sv/articles/208334015-Kom-igång-med-Fortnox-Leverantörsfakturaattest).
+
+Attest för fakturor över av FS beslutad belopps gräns är uppsatt. Attestanter får mail på sin Frisbeesport-adress när det är dags att attestera en faktura.
+
+
+### Attest (gammal rutin)
 
 Fakturor som överstiger 20.000 kronor ska attesteras av två styrelseledamöter enligt konstituerande styrelsebeslut. Attestering görs i Google Drive:
 
