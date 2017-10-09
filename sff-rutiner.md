@@ -1,4 +1,4 @@
-# Checklista med viktiga aktiviteter för en typiskt FS-år
+# Checklista med viktiga aktiviteter för ett typiskt FS-år
 
 * Ansökan Ekonomiskt stöd för FS - deadline brukar vara augusti
 * Ansökan/uppdaterad utvecklingsplan för Idrottslyft
