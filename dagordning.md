@@ -215,7 +215,7 @@ Förslag på datum:
 1. Ärendehanteringssystem [Jonas]
 1. Datum för årsmöte 2018 [Peter]
 1. Tidslinje årsmöte 2018 samt fördelning av arbetsuppgifter [Jonas]
-1. Övrigt
+1. Övrigt 1 - Rutiner löpande admin [Jonas]
 1. Nästa möte
 1. Mötets avslutande
 
