@@ -32,6 +32,7 @@ Förslag på datum:
 * FS Möte 6 - 15/8 20:00-21:30
 * FS Möte 7 - 12/9 20:00-21:30
 * FS Möte 8 - 10/10 20:00-21:30
+* Extra FS Möte - 24/10 20:00-12:30
 * FS Möte 9 - 14/11
 * FS Möte 10 - 12/12
 * FS Möte 11 - 9/1
@@ -221,6 +222,24 @@ Förslag på datum:
 1. Mötets avslutande
 
 
+## Extra FS Möte
+
+1. Mötets öppnande
+1. Val av mötesordförande
+1. Val av mötesekreterare
+1. Val av justeringsman
+1. Godkännande av dagordning
+1. Föregående protokoll
+1. Datum för årsmöte 2018 [Peter]
+1. Planering av kansliet 2018 [Jonas] 
+1. Tidslinje årsmöte 2018 samt fördelning av arbetsuppgifter [Jonas]
+1. Status WFDF Bylaws Task Force [Jonas]
+1. Krav på SFF-föreningar from 2017 [Martin]
+1. Övrigt
+1. Nästa möte
+1. Mötets avslutande
+
+
 ##  Dagordning FS-möte 9
 
 1. Mötets öppnande
@@ -233,8 +252,8 @@ Förslag på datum:
 1. Kanslirapport
 1. Process för att ta fram fördelningsnyckel för 2018
 1. Årsmöteshandlingar [Alla]
-1. ...
-1. Övrigt
+1. Ärendehanteringssystem [Jonas]
+1. Övrigt 1 - Rutiner löpande admin [Jonas]
 1. Nästa möte
 1. Mötets avslutande
 
