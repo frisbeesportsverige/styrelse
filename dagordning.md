@@ -262,6 +262,7 @@ Förslag på datum:
 1. Val av justeringsman
 1. Godkännande av dagordning
 1. Föregående protokoll
+1. [FS-checklista](http://styrelse.frisbeesport.se/sff-rutiner)
 1. Att göra lista
 1. Kanslirapport
 1. ...
