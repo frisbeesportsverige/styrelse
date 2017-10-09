@@ -38,6 +38,7 @@ Löpande bokföring görs i Fortnox. Rutiner finns [här](./ekonomi.md). Bokslut
 
 Dagordningar finns [här](./dagordning.md) och underlag samt protokoll på [Google Drive](./gsuite.md). Protokollen publiceras på hemsidan när de är justerade, [länk](http://www.frisbeesport.se/svenskafrisbeesportforbundet/Dokumentbank/moteshandlingarforbundsstyrelse/)
 
+Det finns en mall Google Docs mall för FS-protokollen. Information kring Google Docs och malla finns [här](./gsuite.md)
 
 # Fördelningsnyckel
 
