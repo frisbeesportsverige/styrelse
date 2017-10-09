@@ -208,6 +208,7 @@ Förslag på datum:
 1. Att göra lista
 1. Kanslirapport
 1. Status fördelningsnyckel [Martin]
+1. Representant elittränarkonferens [Martin]
 1. Status WFDF Bylaws Task Force [Jonas]
 1. RF:s antidopningsenket [Martin]
 1. Krav på SFF-föreningar from 2017 [Martin]
