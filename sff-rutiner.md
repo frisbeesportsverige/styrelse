@@ -28,7 +28,7 @@ Förbund har möjlighet att ansöka på medel för projekt inriktade på ungdoms
 
 Medel som beviljas för IL används i de projekt som godkänts i utvecklingsplanen. RF gör ekonomisk uppföljning av dessa projekt. I övrigt är FS är fria att styra sina projekt själva. En projektmodell som GF kan använda för att styra sina projekt finns [här](./projektmodell.md)
 
-All information från RF kring Idrottslyft sparas i Google Drive [här](https://drive.google.com/drive/u/2/folders/0B16tG-NJecYuUUlJTC1Cd1NCRW8). Mail (i PDF-format) tillsammans med bilagor sparas i en mapp namngiven med datum då informationen gick ut från RF.
+All information från RF kring Idrottslyft sparas i Google Drive [här](https://drive.google.com/drive/u/2/folders/0B16tG-NJecYuUUlJTC1Cd1NCRW8) av kansliet. Mail (i PDF-format) tillsammans med bilagor sparas i en mapp namngiven med datum då informationen gick ut från RF. Informationen ska även vidarebefodras till FS och GF samma dag som den kommer till SFF.
 
 # Ekonomi
 
