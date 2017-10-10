@@ -59,16 +59,13 @@ FS ansvarar för att facilitera en process där fördelningsnyckel blir framtage
 
 Det är viktigt att registret över medlemsföreningar är uppdaterat inför 31/12 då röstlängden bestäms. Underlaget från kansliet till styrelsen som fastställer röstlängden ska inkludera uppgift om när medlemsavgift betalats, medlemskap i grenförbund samt kopia på senaste årsmötesprotokoll. Styrelsen ska alltid informeras då förening läggs till och tas bort ur registret, med underlaget för detta bifogat.
 
-En avstämnning av mailadresserna i Google Gruppen klubbmail@frisbeesport.se ska göras minst en gång per år.
+En avstämnning av mailadresserna i Google Gruppen klubbmail@frisbeesport.se ska göras av kansliet minst en gång per år.
 Ett bra tillfälle att göra detta är samtidigt som medlemsregisret uppdateras. Google Gruppen administreras [här](https://groups.google.com/a/frisbeesport.se/d/forum/klubbmail)
 
-Medlemförteckning över föreningarna finns på [hemsidan](http://www.frisbeesport.se/foreningar/foreningsregister/)
-
-Rutin för uppdatera listan på hemsidan finns [här](./licens_o_klubblista.md)
-
-Rutin för underhåll av föreningar i idrottonline finns [här](./idrottonline.md)
-
-Mer information om föreningsregistret finns på [Google Drive](./gsuite.md)
+* Medlemförteckning över föreningarna finns på [hemsidan](http://www.frisbeesport.se/foreningar/foreningsregister/)
+* Rutin för uppdatera listan på hemsidan finns [här](./licens_o_klubblista.md)
+* Rutin för underhåll av föreningar i idrottonline finns [här](./idrottonline.md)
+* Mer information om föreningsregistret finns på [Google Drive](./gsuite.md)
 
 
 ## Föreningsansökan
