@@ -26,6 +26,8 @@ Kansliet ansvarar även för att deadlines läggs in i FS Att-göra-lista på Go
 
 Genom ett samarbetsavtal med Svenska Spel kan specialidrottsförbund (SF) få ~100k per år med diverse marknadsförningsaktiviteter som motprestation (logga på hemsida, event, nyhetsbrev etc.). Mer info finns på [Google Drive](./gsuite.md).
 
+GF ansvarar för alla aktivteter kopplade till detta samarbetsavtal. All kommunikation som går till SFF ska vidarebefodras till GF samma dag.
+
 ## Utvecklingsplan / Idrottslyft
 
 Förbund har möjlighet att ansöka på medel för projekt inriktade på ungdomsverksamhet. Dessa medel är i samma storlekordning som det ordinarie SF-stödet. Mer information finns på [Google Drive](./gsuite.md).
