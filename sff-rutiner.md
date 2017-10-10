@@ -20,6 +20,8 @@ Ansökan om SF-stöd ska skickas in en gång per år tillsammans med diverse sta
 
 All information från RF kring FS-stöd sparas i Google Drive [här](https://drive.google.com/drive/u/2/folders/0B16tG-NJecYuQ1YxQnJsSFVDejQ) av kansliet. Mail (i PDF-format) tillsammans med bilagor sparas i en mapp namngiven med datum då informationen gick ut från RF. Informationen ska även vidarebefodras till FS och GF samma dag som den kommer till SFF.
 
+Kansliet ansvarar även för att deadlines läggs in i FS Att-göra-lista på Google drive [här](https://docs.google.com/spreadsheets/d/1telI0yG6uYE8nMXLTYICW5stgOPNKPHo2Itd_TNEC1g/edit#gid=1829913035).
+
 ## Samarbetsavtal Svenska Spel
 
 Genom ett samarbetsavtal med Svenska Spel kan specialidrottsförbund (SF) få ~100k per år med diverse marknadsförningsaktiviteter som motprestation (logga på hemsida, event, nyhetsbrev etc.). Mer info finns på [Google Drive](./gsuite.md).
@@ -31,6 +33,8 @@ Förbund har möjlighet att ansöka på medel för projekt inriktade på ungdoms
 Medel som beviljas för IL används i de projekt som godkänts i utvecklingsplanen. RF gör ekonomisk uppföljning av dessa projekt. I övrigt är FS är fria att styra sina projekt själva. En projektmodell som GF kan använda för att styra sina projekt finns [här](./projektmodell.md)
 
 All information från RF kring Idrottslyft sparas i Google Drive [här](https://drive.google.com/drive/u/2/folders/0B16tG-NJecYuUUlJTC1Cd1NCRW8) av kansliet. Mail (i PDF-format) tillsammans med bilagor sparas i en mapp namngiven med datum då informationen gick ut från RF. Informationen ska även vidarebefodras till FS och GF samma dag som den kommer till SFF.
+
+Kansliet ansvarar även för att deadlines läggs in i FS Att-göra-lista på Google drive [här](https://docs.google.com/spreadsheets/d/1telI0yG6uYE8nMXLTYICW5stgOPNKPHo2Itd_TNEC1g/edit#gid=1829913035).
 
 # Ekonomi
 
