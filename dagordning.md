@@ -32,7 +32,7 @@ Förslag på datum:
 * FS Möte 6 - 15/8 20:00-21:30
 * FS Möte 7 - 12/9 20:00-21:30
 * FS Möte 8 - 10/10 20:00-21:30
-* Extra FS Möte - 24/10 20:00-12:30
+* Extra FS Möte - 24/10 20:00-21:30
 * FS Möte 9 - 14/11
 * FS Möte 10 - 12/12
 * FS Möte 11 - 9/1
