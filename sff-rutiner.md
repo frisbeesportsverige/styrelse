@@ -53,6 +53,7 @@ Det finns en mall Google Docs mall för FS-protokollen. Information kring Google
 
 En fördelningsnyckel används för att fördela medel mellan GF. Denna nyckel förhandlas fram mellan GF för respekive år. Underlag finns på [Google Drive](./gsuite.md).
 
+FS ansvarar för att facilitera en process där fördelningsnyckel blir framtagen och signerad av GF före första utbetalningen av statsanslag (slutet av januari).
 
 # Föreningsregister
 
