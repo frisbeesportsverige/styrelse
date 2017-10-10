@@ -18,7 +18,7 @@ Mer info [här](http://www.svenskidrott.se/ekonomisktstod/framatfonden).
 
 Ansökan om SF-stöd ska skickas in en gång per år tillsammans med diverse statistik. Deadline brukar ligga i augusti. Info för 2018 finns på [Google Drive](./gsuite.md).
 
-All information från RF kring FS-stöd sparas i Google Drive [här](https://drive.google.com/drive/u/2/folders/0B16tG-NJecYuQ1YxQnJsSFVDejQ) av kansliet. Mail (i PDF-format) tillsammans med bilagor sparas i en mapp namngiven med datum då informationen gick ut från RF. Informationen ska även vidarebefodras till FS och GF samma dag som den kommer till SFF.
+All information från RF kring SF-stöd sparas i Google Drive [här](https://drive.google.com/drive/u/2/folders/0B16tG-NJecYuQ1YxQnJsSFVDejQ) av kansliet. Mail (i PDF-format) tillsammans med bilagor sparas i en mapp namngiven med datum då informationen gick ut från RF. Informationen ska även vidarebefodras till FS och GF samma dag som den kommer till SFF.
 
 Kansliet ansvarar även för att deadlines läggs in i FS Att-göra-lista på Google drive [här](https://docs.google.com/spreadsheets/d/1telI0yG6uYE8nMXLTYICW5stgOPNKPHo2Itd_TNEC1g/edit#gid=1829913035).
 
