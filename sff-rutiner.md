@@ -53,7 +53,12 @@ Det finns en mall Google Docs mall för FS-protokollen. Information kring Google
 
 En fördelningsnyckel används för att fördela medel mellan GF. Denna nyckel förhandlas fram mellan GF för respekive år. Underlag finns på [Google Drive](./gsuite.md).
 
-FS ansvarar för att facilitera en process där fördelningsnyckel blir framtagen och signerad av GF före första utbetalningen av statsanslag (slutet av januari).
+FS ansvarar för att facilitera en process där fördelningsnyckel blir framtagen och signerad av GF före första utbetalningen av statsanslag (slutet av januari). Följande deadlines gäller för processen:
+
+1. 30/11 - Strukturella förändringar i modellen ska vara överenskomna mellan samtliga GF och även FS
+1. 31/12 - All input ska vara FS tillhanda från GF. Input ska styrkas med underlag. Input som ej är FS tillhanda till deadline sätts till 0.
+1. 15/1 - Fördelningsnyckel ska vara signerad av GF
+
 
 # Föreningsregister
 
