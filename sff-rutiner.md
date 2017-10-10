@@ -18,6 +18,8 @@ Mer info [här](http://www.svenskidrott.se/ekonomisktstod/framatfonden).
 
 Ansökan om SF-stöd ska skickas in en gång per år tillsammans med diverse statistik. Deadline brukar ligga i augusti. Info för 2018 finns på [Google Drive](./gsuite.md).
 
+All information från RF kring FS-stöd sparas i Google Drive [här](https://drive.google.com/drive/u/2/folders/0B16tG-NJecYuQ1YxQnJsSFVDejQ) av kansliet. Mail (i PDF-format) tillsammans med bilagor sparas i en mapp namngiven med datum då informationen gick ut från RF. Informationen ska även vidarebefodras till FS och GF samma dag som den kommer till SFF.
+
 ## Samarbetsavtal Svenska Spel
 
 Genom ett samarbetsavtal med Svenska Spel kan specialidrottsförbund (SF) få ~100k per år med diverse marknadsförningsaktiviteter som motprestation (logga på hemsida, event, nyhetsbrev etc.). Mer info finns på [Google Drive](./gsuite.md).
