@@ -235,6 +235,7 @@ Förslag på datum:
 1. Tidslinje årsmöte 2018 samt fördelning av arbetsuppgifter [Jonas]
 1. Status WFDF Bylaws Task Force [Jonas]
 1. Krav på SFF-föreningar from 2017 [Martin]
+1. Fråga från SUF angående vidarbefodrade mail [Jonas]
 1. Övrigt
 1. Nästa möte
 1. Mötets avslutande
