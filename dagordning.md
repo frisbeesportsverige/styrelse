@@ -231,7 +231,8 @@ Förslag på datum:
 1. Godkännande av dagordning
 1. Föregående protokoll
 1. Datum för årsmöte 2018 [Peter]
-1. Planering av kansliet 2018 [Jonas] 
+1. Planering av kansliet 2018 [Jonas]
+1. BESLUT: Lönerevision [Jonas]
 1. Tidslinje årsmöte 2018 samt fördelning av arbetsuppgifter [Jonas]
 1. Status WFDF Bylaws Task Force [Jonas]
 1. Krav på SFF-föreningar from 2017 [Martin]
