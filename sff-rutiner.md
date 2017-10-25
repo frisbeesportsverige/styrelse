@@ -101,8 +101,9 @@ Licenslista på hemsidan uppdateras 1 gång/vecka under tidigare del av året se
 
 # Officiell kommunikation
 
-I all kommunikation som går ut från kansliet är det viktigt att styrelsen är informerad. styrelsen@frisbeepsort.se ska vara cc:ad i alla
-officiella mail från kansliset.
+I all kommunikation som går ut från kansliet är det viktigt att styrelsen är informerad. styrelsen@frisbeepsort.se ska vara cc:ad i alla officiella mail från kansliset.
+
+All ingående mail till SFF ska gå till kansliet@frisbeesport.se.
 
 
 # Riksidrottsmöte (RIM)
