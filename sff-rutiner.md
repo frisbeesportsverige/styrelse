@@ -115,11 +115,13 @@ Här väljs RF:s styrelse, förbund som ansöker om medlemskap i RF godkäns/avs
 SFF rangordnar tillsammans med GF de ansökningar som kommer in och skickar sedan vidare till RF. Mer information finns på [svenskidrott.se](http://www.svenskidrott.se/Elitidrott/Elitidrottsstipendium)
 
 
-# Semesterplanering
+# Tidrapportering och semesterplanering
+
+All tid som anställd personal lägger ner ska tidrapporteras. På Google Drive i mappen Kansliet finns ett Google Sheet 'Tid 20XX' där tidrapportering görs.
 
 En semesterlista ska läggas upp för varje kalenderår på Google Drive. Här lägger personal in semster som planerats in. Styrelseledamötet lägger in perioder då man inte är tillgänglig för FS-möten.
 
-[Semesterplanering för 2017](https://docs.google.com/spreadsheets/d/12UTxoUhcyvAQXzLOolgSjnZAyPe50Fnnz-P8Svwatj0/edit#gid=0)
+Det finns ett Google Sheet på Google Drive i mappen Kansliet där semsterplanen ska läggas in.
 
 
 # Stadgar
