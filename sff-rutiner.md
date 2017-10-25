@@ -2,6 +2,7 @@
 
 * Ansökan Ekonomiskt stöd för FS - deadline brukar vara augusti
 * Ansökan/uppdaterad utvecklingsplan för Idrottslyft
+* Påminn valberedningen om stadgarna - "I valberedningens uppdrag ingår att senast fyra månader före förbundsmötet fråga dem vilkas mandattid utgår om de önskar kandidera för kommande mandatperiod,"
 * Kallelse till årsmöte - tre månader före mötet. 8 B Kap Grenförbund GF: "Grenförbunds årsmöte ska äga rum före förbundets årsmöte och ej samtidigt som årsmöte i annat grenförbund inom förbundet”
 * Material till årsmöte - tre veckor innan mötet
 * Säkerställa att fördelningsnyckel blir framtagen och signerad av GF - före första utbetalningen av statsanslag (slutet av januari)
