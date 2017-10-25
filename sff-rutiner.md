@@ -117,7 +117,7 @@ SFF rangordnar tillsammans med GF de ansökningar som kommer in och skickar seda
 
 # Tidrapportering och semesterplanering
 
-All tid som anställd personal lägger ner ska tidrapporteras. På Google Drive i mappen Kansliet finns ett Google Sheet 'Tid 20XX' där tidrapportering görs.
+All tid som anställd personal lägger ner ska tidrapporteras. På Google Drive i mappen Kansliet finns ett Google Sheet 'Tid 20XX' där tidrapportering görs (XX är året tidrapporterna avser).
 
 En semesterlista ska läggas upp för varje kalenderår på Google Drive. Här lägger personal in semster som planerats in. Styrelseledamötet lägger in perioder då man inte är tillgänglig för FS-möten.
 
