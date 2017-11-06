@@ -256,6 +256,7 @@ Förslag på datum:
 1. Årsmöteshandlingar [Alla]
 1. Ärendehanteringssystem [Jonas]
 1. Anti-doping ansvarig GF [Martin]
+1. VFF Avtal 2018
 1. Övrigt
 1. Nästa möte
 1. Mötets avslutande
