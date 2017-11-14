@@ -33,11 +33,11 @@ Förslag på datum:
 * FS Möte 7 - 12/9 20:00-21:30
 * FS Möte 8 - 10/10 20:00-21:30
 * FS Möte 8:2 - 24/10 20:00-21:30
-* FS Möte 9 - 14/11
-* FS Möte 10 - 12/12
-* FS Möte 11 - 9/1
-* FS Möte 12 - 13/2
-* FS Möte 13 - 13/3 
+* FS Möte 9 - 14/11 20:00-21:30
+* FS Möte 10 - 12/12 20:00-21:30
+* FS Möte 11 - 9/1 20:00-21:30
+* FS Möte 12 - 13/2 20:00-21:30
+* FS Möte 13 - 13/3 20:00-21:30
 
 
 ### Arbete med IL-Utvecklingsplan tillsammans med GF
