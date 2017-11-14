@@ -6,6 +6,8 @@
 * Kallelse till årsmöte - tre månader före mötet. 8 B Kap Grenförbund GF: "Grenförbunds årsmöte ska äga rum före förbundets årsmöte och ej samtidigt som årsmöte i annat grenförbund inom förbundet”
 * Material till årsmöte - tre veckor innan mötet
 * Säkerställa att fördelningsnyckel blir framtagen och signerad av GF - före första utbetalningen av statsanslag (slutet av januari)
+* GF ska lämna årsredovisning med bokslut, verksamhetsberättelse, revisionsberättelse samt granskningsrapport till SFF styrelse senast 5 veckor innan SFF årsmöte.
+
 
 # Bidrag
 
@@ -102,7 +104,7 @@ Licenslista på hemsidan uppdateras 1 gång/vecka under tidigare del av året se
 
 # Officiell kommunikation
 
-I all kommunikation som går ut från kansliet är det viktigt att styrelsen är informerad. styrelsen@frisbeepsort.se ska vara cc:ad i alla officiella mail från kansliset.
+I all kommunikation som går ut från kansliet är det viktigt att styrelsen är informerad. styrelsen@frisbeesport.se ska vara cc:ad i alla officiella mail från kansliset. Kansliet ska ha kopia på e-post som är av betydelse för kansliet och går till mellan SF, GF och medlemsföreningar.
 
 All ingående mail till SFF ska gå till kansliet@frisbeesport.se.
 
@@ -121,9 +123,7 @@ SFF rangordnar tillsammans med GF de ansökningar som kommer in och skickar seda
 
 All tid som anställd personal lägger ner ska tidrapporteras. På Google Drive i mappen Kansliet finns ett Google Sheet 'Tid 20XX' där tidrapportering görs (XX är året tidrapporterna avser).
 
-En semesterlista ska läggas upp för varje kalenderår på Google Drive. Här lägger personal in semster som är planerad. Styrelseledamötet lägger in perioder då man inte är tillgänglig för FS-möten.
-
-Det finns ett Google Sheet på Google Drive i mappen Kansliet där semsterplanen ska läggas in.
+En semesterlista ska läggas upp för varje kalenderår på Google Drive i mappen Kansliet. Här lägger personal in semster som är planerad.
 
 
 # Stadgar
