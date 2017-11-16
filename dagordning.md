@@ -273,6 +273,9 @@ Förslag på datum:
 1. Föregående protokoll
 1. Att göra lista
 1. Kanslirapport
+1. Årsmöteshandlingar
+1. Ärendehanteringssystem [Jonas]
+1. Anti-doping ansvarig GF [Martin]
 1. ...
 1. Övrigt
 1. Nästa möte
