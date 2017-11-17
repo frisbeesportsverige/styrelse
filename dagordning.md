@@ -276,6 +276,7 @@ Förslag på datum:
 1. Årsmöteshandlingar
 1. Ärendehanteringssystem [Jonas]
 1. Anti-doping ansvarig GF [Martin]
+1. WFDF Elections (deadline 15/12)
 1. ...
 1. Övrigt
 1. Nästa möte
