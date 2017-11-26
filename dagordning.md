@@ -274,6 +274,7 @@ Förslag på datum:
 1. Att göra lista
 1. Kanslirapport
 1. Årsmöteshandlingar
+1. Avtal med GF [Jonas]
 1. Ärendehanteringssystem [Jonas]
 1. Anti-doping ansvarig GF [Martin]
 1. WFDF Elections (deadline 15/12)
