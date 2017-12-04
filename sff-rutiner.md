@@ -52,6 +52,8 @@ Dagordningar finns [här](./dagordning.md) och underlag samt protokoll på [Goog
 
 Det finns en mall Google Docs mall för FS-protokollen. Information kring Google Docs och malla finns [här](./gsuite.md)
 
+Beslut kan även fattas på mail på initiativ av ordföranden och sedan dokumenteras i följande protokoll för FS-möte. FS-representanter kan be orföranden att initiera mailbeslut på samma sätt som de kan be ordföranden kalla till FS-möte. FS-representant som inte besvarar mail inom 72 timmar överlåter till övriga represenanter att besluta. Suppleanter har möjlighet att delta i beslut då ordinarie representant inte deltar. I undantagsfall kan deadline för svar sättas till mindre än 72 timmar.
+
 # Fördelningsnyckel
 
 En fördelningsnyckel används för att fördela medel mellan GF. Denna nyckel förhandlas fram mellan GF för respekive år. Underlag finns på [Google Drive](./gsuite.md).
