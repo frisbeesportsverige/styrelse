@@ -14,7 +14,7 @@ Ett ärende skapas för varje inkommande mail. Genom att klilcka på `Reply` lä
 Det går också att ta bort ärenden som skapats av missatag samt att markera ärenden som spam vilket blockerar avsändaren från att skapa nya ärenden.
 
 
-![ticket2](./media/freshdesk/ticket.png "ticket")
+![ticket2](./media/freshdesk/ticket2.png "ticket2")
 
 
 ## Ärenden med flera parter
