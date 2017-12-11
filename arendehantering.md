@@ -7,9 +7,14 @@ Det finns här möjlighet att skapa inlogg för flera s.k. agenter som kan jobba
 
 ## Hantera inkommande mail/ärenden
 
-Ett ärende skapas för varje inkommande mail. Genom att klilcka på `Reply` längst ner i ärendet besvaras frågan i mailet. När ett ärende är slutfört ska det stängas genom att ändra 
+Ett ärende skapas för varje inkommande mail. Genom att klilcka på `Reply` längst ner i ärendet besvaras frågan i mailet. När ett ärende är slutfört ska det stängas genom att ändra `Status` till `Closed`. Det är viktigt att görta detta då ett ärende är slutfört statistiken avänder tidpunkt för när ärenden skapas och stängs. Alla ärenden ska märkas med samma koder som används för tidrapportering, se rutinen för Tidrapporter.
 
 ![ticket](./media/freshdesk/ticket.png "ticket")
+
+Det går också att ta bort ärenden som skapats av missatag samt att markera ärenden som spam vilket blockerar avsändaren från att skapa nya ärenden.
+
+
+![ticket2](./media/freshdesk/ticket.png "ticket")
 
 
 ## Ärenden med flera parter
