@@ -221,7 +221,7 @@ Material finns på [Google Drive](./gsuite.md) och publiceras på [hemsidan](htt
 
 # Ärendehantering
 
-All mailkommunikation med SFF hanteras med ärendehanteringssystemet. Rutiner för ärendehantering finns beskriva [här](./arendehantering.md).
+All officiell mailkommunikation med SFF:s kansli, dvs. alla mail som skickas till och från kansliset@frisbeespoert.se, hanteras med ärendehanteringssystemet. Rutiner för ärendehantering finns beskriva [här](./arendehantering.md).
 
 # Input rutiner från kansliet
 
