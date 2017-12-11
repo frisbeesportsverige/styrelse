@@ -5,7 +5,14 @@ kansliet@frisbeesport.se vidarbefodras till Freshdesk. I Freshdesk samlas alla m
 
 Det finns här möjlighet att skapa inlogg för flera s.k. agenter som kan jobba med att besvara frågor. Vi har nu en agent man kan köpa till flera vid behov.
 
-## Skicka mail från Freshdesk
+## Hantera inkommande mail/ärenden
+
+Ett ärende skapas för varje inkommande mail. Genom att klilcka på `Reply` längst ner i ärendet besvaras frågan i mailet. När ett ärende är slutfört ska det stängas genom att ändra 
+
+![ticket](./media/freshdesk/ticket.png "ticket")
+
+
+## Ärenden med flera parter
 
 Det går även att skicka mail från Freshdesk och då skapas samtidigt ett ärenden. Genom att använda CC:fältet går det att maila
 flera mail-adresser samtidigt och deras svar kommer att kopplas till ärendet.
