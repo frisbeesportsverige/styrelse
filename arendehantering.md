@@ -32,7 +32,7 @@ Här är ett exempel på mail till flera mottagare:
 ## SLA
 
 
-![SLA](./media/freshdesk/a.png "sla")
+![SLA](./media/freshdesk/SLA.png "SLA")
 
 
 
