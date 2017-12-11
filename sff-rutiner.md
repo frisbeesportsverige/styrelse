@@ -156,13 +156,13 @@ All tid som läggs ner inom kansliet ska tidrapporteras. Följande tidrapporteri
 Format: prefix_tidrapporteringskod 
 Prefix: SFF, SDFA, SDGF, SUF
 
-* SFF_RF_SISU
-* SFF_Webb_mailadmin
-* SFF_Webb_mailadmin2
-* SFF_Bank
-* SFF_Bokföring
-* SFF_IdrottOnline1
-* SFF_Styrelsearbete
+  * SFF_RF_SISU
+  * SFF_Webb_mailadmin
+  * SFF_Webb_mailadmin2
+  * SFF_Bank
+  * SFF_Bokföring
+  * SFF_IdrottOnline1
+  * SFF_Styrelsearbete
 
 * SDFA_Bank
 * SDFA_Bokföring
