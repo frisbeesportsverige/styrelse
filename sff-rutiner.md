@@ -151,7 +151,7 @@ GF:
 
 ## Tidrapporteringskoder
 
-All tid som läggs ner inom kansliet ska tidrapporteras. Följande tidrapporteringskoder ska användas:
+Följande tidrapporteringskoder ska användas:
 
 * Format: prefix_tidrapporteringskod 
 * Prefix: SFF, SDFA, SDGF, SUF
