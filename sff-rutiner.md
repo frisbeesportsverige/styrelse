@@ -127,6 +127,70 @@ All tid som anställd personal lägger ner ska tidrapporteras. På Google Drive 
 
 En semesterlista ska läggas upp för varje kalenderår på Google Drive i mappen Kansliet. Här lägger personal in semster som är planerad.
 
+## Aktiviteter
+
+Kansliets arbete är fördelat på följande aktiviteter.
+
+SFF:
+* RF_SISU - Delta i möten och samlingar och rapportera tillbaka
+* Webb_mailadmin - Administrera e-postgrupper, uppdatera hemsida
+* Webb_mailadmin2 - Hantering av inkommen post och e-post
+
+SFF & GF:
+* Bank - Hantera in- och utbetalningar	
+* Bokföring - Löpande bokföring
+* IdrottOnline1 - Underlag såsom statistik mm
+* Styrelsearbete - Sekreterare, möteskallelser, mötesdeltagande
+
+GF:
+* Idrottslyft - Resurs i projekt
+* IdrottOnline2 - Admin Idrottslyftsansökningar
+* IdrottOnline3 - Medlemsregister
+* IdrottOnline4 - Licenshantering
+
+
+## Tidrapporteringskoder
+
+All tid som läggs ner inom kansliet ska tidrapporteras. Följande tidrapporteringskoder ska användas:
+
+Format: prefix_tidrapporteringskod 
+Prefix: SFF, SDFA, SDGF, SUF
+
+* SFF_RF_SISU
+* SFF_Webb_mailadmin
+* SFF_Webb_mailadmin2
+* SFF_Bank
+* SFF_Bokföring
+* SFF_IdrottOnline1
+* SFF_Styrelsearbete
+
+* SDFA_Bank
+* SDFA_Bokföring
+* SDFA_IdrottOnline1
+* SDFA_Styrelsearbete
+* SDFA_Idrottslyft
+* SDFA_IdrottOnline2
+* SDFA_IdrottOnline3
+* SDFA_IdrottOnline4
+
+* SDGF_Bank
+* SDGF_Bokföring
+* SDFD_IdrottOnline1
+* SDGF_Styrelsearbete
+* SDGF_Idrottslyft
+* SDGF_IdrottOnline2
+* SDGF_IdrottOnline3
+* SDGF_IdrottOnline4
+
+* SUF_Bank
+* SUF_Bokföring
+* SUF_IdrottOnline1
+* SUF_Styrelsearbete
+* SUF_Idrottslyft
+* SUF_IdrottOnline2
+* SUF_IdrottOnline3
+* SUF_IdrottOnline4
+
 
 # Stadgar
 
