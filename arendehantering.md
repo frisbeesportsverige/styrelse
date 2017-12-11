@@ -9,6 +9,8 @@ Det finns här möjlighet att skapa inlogg för flera s.k. agenter som kan jobba
 
 Ett ärende skapas för varje inkommande mail. Genom att klilcka på `Reply` längst ner i ärendet besvaras frågan i mailet. När ett ärende är slutfört ska det stängas genom att ändra `Status` till `Closed`. Det är viktigt att görta detta då ett ärende är slutfört statistiken avänder tidpunkt för när ärenden skapas och stängs. Alla ärenden ska märkas med samma koder som används för tidrapportering genom att lägga in detta i fältet `Tags`, se rutinen för Tidrapporter för koderna.
 
+Alla ärenden ska tilldelas en prioritet. Detta görs genom att sätta `Priority` fältet första gången ärendet öppnas. Responstid och inom vilken tid ärenden av olika prioritet ska vara besvaras samt lösas framgår av SLA nedan.
+
 ![ticket](./media/freshdesk/ticket.png "ticket")
 
 Det går också att ta bort ärenden som skapats av missatag samt att markera ärenden som spam vilket blockerar avsändaren från att skapa nya ärenden.
@@ -30,6 +32,7 @@ Här är ett exempel på mail till flera mottagare:
 
 
 ## SLA
+
 
 
 ![SLA](./media/freshdesk/SLA.png "SLA")
