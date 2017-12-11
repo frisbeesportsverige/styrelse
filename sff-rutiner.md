@@ -219,6 +219,10 @@ Statistik ska skickas in till WFDF en gång per år. Kongresser brukar hållas e
 Material finns på [Google Drive](./gsuite.md) och publiceras på [hemsidan](http://www.frisbeesport.se/svenskafrisbeesportforbundet/Dokumentbank/arsmoteshandlingar/). Protokoll från årsmöten publiceras på [hemsidan](http://www.frisbeesport.se/Dokumentbank/Dokument/Protokollarsmote/)
 
 
+# Ärendehantering
+
+All mailkommunikation med SFF hanteras med ärendehanteringssystemet. Rutiner för ärendehantering finns beskriva [här](./arendehantering.md).
+
 # Input rutiner från kansliet
 
 * Ekonomi; bokföring/betalningar SFF och grenförbund
