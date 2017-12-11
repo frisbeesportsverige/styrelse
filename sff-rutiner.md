@@ -177,7 +177,7 @@ SDFA_IdrottOnline4
 
 SDGF_Bank
 SDGF_Bokföring
-SDFD_IdrottOnline1
+SDGF_IdrottOnline1
 SDGF_Styrelsearbete
 SDGF_Idrottslyft
 SDGF_IdrottOnline2
