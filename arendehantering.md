@@ -29,3 +29,10 @@ Här är ett exempel på mail till flera mottagare:
 ![new_mail2](./media/freshdesk/new_mail2.png "new_mail1")
 
 
+## SLA
+
+
+![SLA](./media/freshdesk/a.png "sla")
+
+
+
