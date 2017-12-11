@@ -191,6 +191,10 @@ SUF_Idrottslyft
 SUF_IdrottOnline2
 SUF_IdrottOnline3
 SUF_IdrottOnline4
+
+Semester
+Kompledigt
+VFF
 ```
 
 # Stadgar
