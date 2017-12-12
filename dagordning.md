@@ -278,14 +278,29 @@ Förslag på datum:
 1. GDPR [Peter]
 1. Dokument från medlemsföreningar [Peter]
 1. WFDF Elections (deadline 15/12)
-1. Avtal med GF [Jonas]
-1. Ärendehanteringssystem [Jonas]
+1. Avtal med GF - andel av kansliet som SFF ska ta i anspråk [Jonas]
 1. Årsmöteshandlingar
-1. Anti-doping ansvarig GF [Martin]
 1. Övrigt
 1. Nästa möte
 1. Mötets avslutande
 
+
+## Dagordning FS-möte 11
+
+1. Mötets öppnande
+1. Val av mötesordförande
+1. Val av mötesekreterare
+1. Val av justeringsman
+1. Godkännande av dagordning
+1. Föregående protokoll
+1. [FS-checklista](http://styrelse.frisbeesport.se/sff-rutiner)
+1. [Att göra lista](https://docs.google.com/spreadsheets/d/1telI0yG6uYE8nMXLTYICW5stgOPNKPHo2Itd_TNEC1g/edit#gid=0)
+1. Kanslirapport
+1. Anti-doping ansvarig GF [Martin]
+1. ...
+1. Övrigt
+1. Nästa möte
+1. Mötets avslutande
 
 ## Mall dagordningar planerade FS-möten
 
