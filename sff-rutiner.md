@@ -221,30 +221,5 @@ Material finns på [Google Drive](./gsuite.md) och publiceras på [hemsidan](htt
 
 # Ärendehantering
 
-All officiell mailkommunikation med SFF:s kansli, dvs. alla mail som skickas till och från kansliset@frisbeespoert.se, hanteras med ärendehanteringssystemet. Rutiner för ärendehantering finns beskriva [här](./arendehantering.md).
+All officiell mailkommunikation med SFF:s kansli, dvs. alla mail som skickas till och från kansliet@frisbeesport.se, hanteras med ärendehanteringssystemet. Rutiner för ärendehantering finns beskrivna [här](./arendehantering.md).
 
-# Input rutiner från kansliet
-
-* Ekonomi; bokföring/betalningar SFF och grenförbund
-* Bokslutsarbete – startar i november/december med kontakt revisor och slutförs sedan i tid inför årsmöte
-* Årsmöte förberedelser; lokaler/utskick/resor/kallelse/sammanställa dokument
-
-* Uppdatering web, www.frisbeesport.se
-* Hantera inkommande post; SFF och 3 grenförbund
-* Administrera användare och grupper G-mail
-
-* IdrottOnline
-* Licenshantering
-
-* Landslag; bokningar, anmälan, betalningar och övrigt tillhörande, berör först och främst ultimate
-* Kontakter RF, SISU m.fl.
-* Besvara inkommen e-post
-* Länk mellan kansli-FS- GF-Föreningar- Medlemmar
-* Kontakt gentemot föreningar och deras medlemmar, allmän service
-
-* Medverka RIM vartannat år Riksidrottsforum vartannat år
-* Idrottslyftsträffar 2 ggr/år
-
-* Förbereda FS-möten, sekreterare och deltar på alla FS-möten om möjligt
-
-Mer info om kanslirutiner finns på [Google Drive](./gsuite.md)
