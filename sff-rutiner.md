@@ -54,6 +54,11 @@ Det finns en mall Google Docs mall för FS-protokollen. Information kring Google
 
 Beslut kan även fattas på mail på initiativ av ordföranden och sedan dokumenteras i följande protokoll för FS-möte. FS-representanter kan be orföranden att initiera mailbeslut på samma sätt som de kan be ordföranden kalla till FS-möte. FS-representant som inte besvarar mail inom 72 timmar överlåter till övriga represenanter att besluta. Suppleanter har möjlighet att delta i beslut då ordinarie representant inte deltar. I undantagsfall kan deadline för svar sättas till mindre än 72 timmar.
 
+## FS-kalender
+
+Genom att lägga in event i kalendern för användaren kalender@frisbeesport.se skickas mail till styrelsen och kansliet. Ange Avisering via epost och antal dagar innan eventet som påminnelsen ska skickas.
+
+
 # Fördelningsnyckel
 
 En fördelningsnyckel används för att fördela medel mellan GF. Denna nyckel förhandlas fram mellan GF för respekive år. Underlag finns på [Google Drive](./gsuite.md).
