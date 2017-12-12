@@ -273,11 +273,10 @@ Förslag på datum:
 1. Föregående protokoll
 1. Att göra lista
 1. Kanslirapport
-1. Beslut årsmöteslokal, offert finns från Scandic och Student, ligger i GD under AttgöraFS
- * Hitta ordförande - Elin kan ej, vår kontaktperson i RF Lena Arvidsson kan ej, förslag?
- * Fördelning Framåt i rörelse, se mail den skickat 5 dec till FS och GF
- * GDPR
- * Dokument från medlemsföreningar
+1. Beslut årsmöteslokal, offert finns från Scandic och Student, ligger i GD under AttgöraFS & hitta ordförande - Elin kan ej, vår kontaktperson i RF Lena Arvidsson kan ej, förslag? [Peter]
+1. Fördelning Framåt i rörelse, se mail den skickat 5 dec till FS och GF [Peter]
+1. GDPR [Peter]
+1. Dokument från medlemsföreningar [Peter]
 1. WFDF Elections (deadline 15/12)
 1. Avtal med GF [Jonas]
 1. Ärendehanteringssystem [Jonas]
