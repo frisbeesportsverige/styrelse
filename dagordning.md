@@ -278,7 +278,7 @@ Förslag på datum:
 1. GDPR [Peter]
 1. Dokument från medlemsföreningar [Peter]
 1. WFDF Elections (deadline 15/12)
-1. Avtal med GF - andel av kansliet som SFF ska ta i anspråk [Jonas]
+1. Avtal med GF & andel av kansliet som SFF ska ta i anspråk [Jonas]
 1. Årsmöteshandlingar
 1. Övrigt
 1. Nästa möte
