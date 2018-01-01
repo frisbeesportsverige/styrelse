@@ -296,6 +296,7 @@ Förslag på datum:
 1. [FS-checklista](http://styrelse.frisbeesport.se/sff-rutiner)
 1. [Att göra lista](https://docs.google.com/spreadsheets/d/1telI0yG6uYE8nMXLTYICW5stgOPNKPHo2Itd_TNEC1g/edit#gid=0)
 1. Kanslirapport
+1. WFDF Voting Iran
 1. Avtal mellan SFF och GF [Jonas]
 1. Andel av kansliet som SFF ska ta i anspråk [Jonas]
 1. Fördelningsnyckel 2018
@@ -303,6 +304,24 @@ Förslag på datum:
 1. Övrigt
 1. Nästa möte
 1. Mötets avslutande
+
+
+## Dagordning FS-möte 12
+
+1. Mötets öppnande
+1. Val av mötesordförande
+1. Val av mötesekreterare
+1. Val av justeringsman
+1. Godkännande av dagordning
+1. Föregående protokoll
+1. [FS-checklista](http://styrelse.frisbeesport.se/sff-rutiner)
+1. [Att göra lista](https://docs.google.com/spreadsheets/d/1telI0yG6uYE8nMXLTYICW5stgOPNKPHo2Itd_TNEC1g/edit#gid=0)
+1. Kanslirapport
+1. ...
+1. Övrigt
+1. Nästa möte
+1. Mötets avslutande
+
 
 ## Mall dagordningar planerade FS-möten
 
