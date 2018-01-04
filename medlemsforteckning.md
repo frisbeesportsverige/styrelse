@@ -32,3 +32,14 @@ Beslut om att avföra förening från SFF medlemsförteckning ska protokollföra
 ## Engångsinsats för dokumentation av händelser i medlemsförteckning 2015-2017:
 
 Kansliet sammanställer vilka föreningar som avförts från medlemsförteckningen 2015-2017 med underlag för beslut, samt vilka föreningar som tillkommit under samma period och delger FS när färdigt.
+
+
+## Länkar
+
+* [Ansökan om medlemskap i specialidrottsförbund](http://www.svenskidrott.se/bildaidrottsforening/ansokanommedlemskapisf/)
+* [Att starta en förening](http://www.frisbeesport.se/foreningar/attstartaenforening/)
+
+
+
+
+
