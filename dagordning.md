@@ -296,6 +296,7 @@ Förslag på datum:
 1. [FS-checklista](http://styrelse.frisbeesport.se/sff-rutiner)
 1. [Att göra lista](https://docs.google.com/spreadsheets/d/1telI0yG6uYE8nMXLTYICW5stgOPNKPHo2Itd_TNEC1g/edit#gid=0)
 1. Kanslirapport
+1. Kallelse till årsmöte
 1. WFDF Voting Iran
 1. Insamling av dokument från medlemsföreningar [Martin]
 1. Årsmöteshandlingar [Alla]
