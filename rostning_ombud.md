@@ -1,6 +1,4 @@
-# Webomröstning
-
-Instruktion för ombud:
+# Webomröstning - Instruktion för ombud:
 
 * Klicka på länken i mailet (eller kopiera länken till en webläsare). Doodle sida för röstning visas.
 * Ange namnet på föreningen du representerar och ska rösta för och ditt egen namn i parentes
