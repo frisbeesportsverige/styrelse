@@ -15,7 +15,7 @@ Input:
 * Namn och mailadress för kontaktperson som håller i omröstningen
 
 
-Rutin för den som arrangerar omröstningen:
+Rutin för den som arrangerar omröstningen (instruktion för ombud finns [här](./rostning_ombud.md)):
 
 * Öppna Doodle med denna länk: [https://doodle.com/sv/webomrostning](https://doodle.com/sv/webomrostning)
 * Välj 'Skapa' omröstning en bit ner på sidan
