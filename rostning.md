@@ -31,6 +31,19 @@ Rutin för den som arrangerar omröstningen:
 * När alla ombud lagt sin röst sparas omröstningen genom att välja 'Mer' > 'Exportera PDF'
 * Sedan väls 'Mer' > 'Till slutgiltigt resultat'
 
+## Skärmdumpar
 
+Startsida:
+![](./media/doodle/startsida.png)
 
+Inställningar:
+![](./media/doodle/installningar.png)
 
+Dela länk:
+![](./media/doodle/dela_lank.png)
+
+Preliminärt resultat:
+![](./media/doodle/prel_resultat.png)
+
+Till resultat:
+![](./media/doodle/till_resultat.png)
