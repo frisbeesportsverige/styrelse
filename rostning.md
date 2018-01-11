@@ -20,7 +20,7 @@ Rutin för den som arrangerar omröstningen:
 * Öppna Doodle med denna länk: [https://doodle.com/sv/webomrostning](https://doodle.com/sv/webomrostning)
 * Välj 'Skapa' omröstning en bit ner på sidan
 * Ange titel
-* Ange en kommentar, t.ex. 'Rösta en gång för varje förening som du är ombud för'
+* Ange en kommentar, t.ex. 'Rösta en gång för varje förening som du är ombud för. Instruktioner för hur röstningen görs finns här: http://styrelse.frisbeesport.se/rostning_ombud'
 * Välj 'Fortsätt'
 * Välj inställningar och välj 'Sluten omröstning', 'Begränsa deltagare till en röst var' och välj sedan 'Bekräfta'
 * Ange alternativen som ombuden kan rösta på
