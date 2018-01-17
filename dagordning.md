@@ -320,7 +320,7 @@ Förslag på datum:
 1. Kanslirapport
 1. Fördelningsnyckel 2018
 1. Anti-doping ansvarig GF [Martin]
-1. ...
+1. Ny föreningsansökan: 'Molkom Chainbangers Klubb'
 1. Övrigt
 1. Nästa möte
 1. Mötets avslutande
