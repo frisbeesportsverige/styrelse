@@ -1,3 +1,5 @@
+# Kommunikationspolicy
+
 ***STATUS: Utkast***
 
 SFF vill skapa förståelse och delaktighet genom att kontinuerligt informera och kommunicera förbundets verksamheter. Den huvudsakliga 
@@ -17,24 +19,25 @@ intressenter. SFF är inte aktiv i sociala medier.
 Vi svarar inte på frågor från anonyma frågeställare och inte på rena påhopp eller frågor av oförskämd karaktär.
 Generellt använder vi ett vårdat men inte byråkratiskt språk.
 
-# Hörnsternar
+## Hörnsternar
 
-## Öppenhet
+### Öppenhet
 
 Vi tror att vår verksamhet gynnas av en öppen, klar och snabb kommunikation. Vi publicerar styrelseprotokoll välkomnar synpunkter och förslag från SFF:s 
 medlemsföreningar och andra intressenter och anstränger oss för att svara snabbt.
 
-## Delaktighet
+### Delaktighet
 
-Högt i tak skall gälla i kommunikationen internt inom distriktets styrelse och mellan ledamöter i styrelse - sektioner - kommittéer. 
+Högt i tak skall gälla i kommunikationen internt inom SFF:s styrelse och mellan ledamöter i styrels  grenförbund och medlemsföreningar. 
 Vi tror att ett fritt idéutbyte inom organisationen utvecklar verksamheten. De öppna diskussionerna följs av en lojalitetsplikt för 
-distriktets bästa och en respekt för majoritetsbeslut och demokratiska mötesprinciper.
+SFF:s bästa och en respekt för majoritetsbeslut och demokratiska mötesprinciper.
 Delaktighet skapar engagemang, och god kommunikation är motivationsfrämjande. Vi ser det därför som naturligt att involvera personal 
 och medlemsföreningar i stora delar av vår kommunikation.
-Inom styrelsen råder i vissa speciella ärenden tystnadsplikt, men som regel ska gälla att personalen och alla sektionsledamöter 
+Inom styrelsen råder i vissa speciella ärenden tystnadsplikt, men som regel ska gälla att personalen och alla styrelseledamöter 
 ska få kännedom om varje nyhet av vikt, innan den offentliggörs.
 
-## Tydlighet
+
+### Tydlighet
 
 Vi mottagaranpassar i möjligaste mån vår information, använder fackspråk endast i kontakt med fackfolk och är måna om att uttrycka oss 
 begripligt i vår kommunikation med omvärlden.
