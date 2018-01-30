@@ -45,8 +45,7 @@ begripligt i vår kommunikation med omvärlden.
 ## Kvalitet
 
 Vår information, inåt som utåt, ska vara saklig, aktuell, korrekt och relevant för sina mottagare. Vi ska bygga upp bra kontaktregister 
-och efter varje årsmötesperiod uppdatera på ”funktionsnivå”, så att SFF:s styreles och kansl på ett enkelt sätt kan 
-kommunicera med medlemföreningarna.
+och efter varje årsmötesperiod så att SFF:s styreles och kansl på ett enkelt sätt kan kommunicera med medlemföreningarna.
 
 
 ## Engagemang
