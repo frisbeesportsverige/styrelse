@@ -1,4 +1,4 @@
-*** STATUS: Utkast ***
+***STATUS: Utkast***
 
 SFF vill skapa förståelse och delaktighet genom att kontinuerligt informera och kommunicera förbundets verksamheter. Den huvudsakliga 
 kanalen för grenspecifik information är respektive grenförbund. SFF hanterar och kommunicerar primärt kring grenöverskridande aktiviteter.
