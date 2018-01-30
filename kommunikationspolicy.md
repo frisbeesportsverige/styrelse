@@ -23,8 +23,7 @@ Generellt använder vi ett vårdat men inte byråkratiskt språk.
 
 ### Öppenhet
 
-Vi tror att vår verksamhet gynnas av en öppen, klar och snabb kommunikation. Vi publicerar styrelseprotokoll välkomnar synpunkter och förslag från SFF:s 
-medlemsföreningar och andra intressenter och anstränger oss för att svara snabbt.
+Vi tror att vår verksamhet gynnas av en öppen, klar och snabb kommunikation. Vi publicerar styrelseprotokoll och välkomnar synpunkter och förslag från SFF:s medlemsföreningar och andra intressenter och anstränger oss för att svara snabbt.
 
 ### Delaktighet
 
