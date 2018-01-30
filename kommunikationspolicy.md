@@ -63,4 +63,4 @@ Informations- och kommunikationsverksamheten ska vara professionell och verka f�
 sammanhang. Information kring affärsöverenskommelser hanteras konfidentiellt. 
 
 
-Referens: SFF står bakom samtliga formuleringarm som delvis är kopierade från Västerbottens Ridsportförbund
+*Referens: SFF står bakom samtliga formuleringar som delvis är kopierade från Västerbottens Ridsportförbund*
