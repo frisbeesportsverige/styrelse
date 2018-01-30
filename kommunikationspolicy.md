@@ -2,7 +2,7 @@
 
 ***STATUS: Utkast***
 
-SFF vill skapa förståelse och delaktighet genom att kontinuerligt informera och kommunicera förbundets verksamheter. Den huvudsakliga 
+SFF vill skapa förståelse och delaktighet genom att kontinuerligt informera och kommunicera om förbundets verksamheter. Den huvudsakliga 
 kanalen för grenspecifik information är respektive grenförbund. SFF hanterar och kommunicerar primärt kring grenöverskridande aktiviteter.
 
 SFF:s policy avser all information och kommunikation där styrelse eller kansli står som avsändare. Vår kommunikation ska präglas av 
