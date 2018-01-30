@@ -8,7 +8,7 @@ kanalen för grenspecifik information är respektive grenförbund. SFF hanterar 
 SFF:s policy avser all information och kommunikation där styrelse eller kansli står som avsändare. Vår kommunikation ska präglas av 
 öppenhet och tillgänglighet. Uppgiften ställer krav på både styrelse och kansli.
 
-Vår kommunikation med omvärlden, muntlig såväl som skriftlig, ska i möjligaste mån ge en samstämd bild av SFF verksamhet. Snabba och 
+Vår kommunikation med omvärlden, muntlig såväl som skriftlig, ska i möjligaste mån ge en samstämd bild av SFF:s verksamhet. Snabba och 
 vänliga svar på förfrågningar påverkar positivt den allmänna bilden av SFF.
 Medarbetare och förtroendevalda som representerar SFF vid externa kontakter ska vara medvetna om att SFF:s varumärke påverkas av såväl 
 informell och oplanerad kommunikation som av planerad och genomtänkt kommunikation.
