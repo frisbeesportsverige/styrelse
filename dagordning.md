@@ -318,15 +318,16 @@ Förslag på datum:
 1. [FS-checklista](http://styrelse.frisbeesport.se/sff-rutiner)
 1. [Att göra lista](https://docs.google.com/spreadsheets/d/1telI0yG6uYE8nMXLTYICW5stgOPNKPHo2Itd_TNEC1g/edit#gid=0)
 1. Kanslirapport
-1. Fördelningsnyckel 2018
-1. Anti-doping ansvarig GF [Martin]
 1. Ny föreningsansökan: 'Molkom Chainbangers Klubb'
+1. Utbetalningar IL 2018 tills fördelningsnyckel uppdaterats [Stefan]
+1. Kanslitjänst och avtal mellan SFF och GF [Jonas]
+1. Årsmöteshandlingar [Alla]
 1. Övrigt
 1. Nästa möte
 1. Mötets avslutande
 
 
-## Mall dagordningar planerade FS-möten
+## Dagordning FS-möte 13
 
 1. Mötets öppnande
 1. Val av mötesordförande
@@ -337,11 +338,8 @@ Förslag på datum:
 1. [FS-checklista](http://styrelse.frisbeesport.se/sff-rutiner)
 1. [Att göra lista](https://docs.google.com/spreadsheets/d/1telI0yG6uYE8nMXLTYICW5stgOPNKPHo2Itd_TNEC1g/edit#gid=0)
 1. Kanslirapport
-1. ...
+1. Årsmöteshandlingar [Alla]
+1. Anti-doping ansvarig GF [Martin]
 1. Övrigt
 1. Nästa möte
 1. Mötets avslutande
-
-
-
-
