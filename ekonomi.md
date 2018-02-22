@@ -72,3 +72,38 @@ Verifikationsserierna A-E har lagts satts upp.
 ![Aktivering i Idrottonline](./media/fortnox/170109_Fortnox_aktivering.png "Aktivering i Fortnox")
 
 
+## Avstämning av bankkonto
+
+[Här](https://support.fortnox.se/hc/sv/articles/115005776889-St%C3%A4m-av-konto) finns en guide hur avstämning av bank-kontot enkelt kan göras. [Här](https://support.fortnox.se/hc/sv/articles/115005472009-H%C3%A4mta-kontoutdrag-f%C3%B6r-St%C3%A4m-av-konto) finns instruktioner hur man laddar ner en fil från Swedbank.
+
+Swedbank:
+
+* Logga in i internetbanken och ta ut en rapport
+* Gå till beställda rapporter och ladda ner en TXT-fil
+
+![Avstämning konto Swedbank](./media/fortnox/avstamning_konto_swedbank.png)
+
+
+Fortnox:
+
+* Välj Bokföring > Stäm av konto
+* Välj Läs in fil och ladda in filen från Swedbank
+* Välj Matcha transaktioner
+* Gå ingeom de transaktioner som inte matchades automatiskt och matcha desssa manuellt
+* Ev. transaktioner som finns i banken men inte i bokföringen kan läggas in genom att klicka på + ikonen
+* Ev. transaktioner som finns i bokföringen men inte i banken är felaktiga och behöbver utredas och rättas
+
+
+![Avstämning konto Fortnox](./media/fortnox/avstamning_konto.png)
+
+
+
+
+
+
+
+
+
+
+
+
