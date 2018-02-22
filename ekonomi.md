@@ -74,7 +74,7 @@ Verifikationsserierna A-E har lagts satts upp.
 
 ## Avstämning av bankkonto
 
-Bankkontot ska stämma av i arebtsveckan efter månadens slut. Detta görs med en bankfil från Swedbank som laddas in i Fortnox.
+Bankkontot ska stämma av i arbetsveckan efter månadens slut. Detta görs med en bankfil från Swedbank som laddas in i Fortnox.
 
 [Här](https://support.fortnox.se/hc/sv/articles/115005776889-St%C3%A4m-av-konto) finns en guide hur avstämning av bank-kontot enkelt kan göras. [Här](https://support.fortnox.se/hc/sv/articles/115005472009-H%C3%A4mta-kontoutdrag-f%C3%B6r-St%C3%A4m-av-konto) finns instruktioner hur man laddar ner en fil från Swedbank.
 
