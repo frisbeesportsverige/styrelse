@@ -92,7 +92,9 @@ Då en förening ansöker om medlemskap i SFF är gången följande:
 * Kansliet granskar dokumentationen
 * Kansliet begär kompletteringar från föreningar om dokumentation saknas
 * Kansliet mailet styrelsen en rekommendation att godkänna föreningar när allt dokumentation finns på plats
+* Kansliet lägger i att beslut måste fattas av styrelsen i att göra listan
 * Styrelse fattar beslut
+* Att göra listan uppdateras
 
 
 # Lathundar för GF och föreningar
