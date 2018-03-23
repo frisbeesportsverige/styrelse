@@ -2,8 +2,6 @@
 
 ## Rutin för ny förening
 
-Ny förening ansöker via IdrottOnline, RF behandlar och sedan går ansökan till förbundskansliet som i sin tur skickar vidare till grenförbund som bifaller/kommenterar/avslår och därefter till FS som fattar slutligt beslut som protokollförs.
-
 Ny förening ansöker via IdrottOnline, RF behandlar, ansökan går sedan till förbundskansliet som i sin tur skickar vidare till grenförbund som bifaller/kommenterar/avslår, därefter går ansökan till FS som fattar slutligt beslut som protokollförs.
 
 Arbetsgången gällande dokumentation och FS-beslut är följande:
