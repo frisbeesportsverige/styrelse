@@ -88,14 +88,7 @@ Ett bra tillfälle att göra detta är samtidigt som medlemsregisret uppdateras.
 
 Då en förening ansöker om medlemskap i SFF är gången följande:
 
-* Underlaget sparas i GD
-* Kansliet granskar dokumentationen
-* Kansliet begär kompletteringar från föreningar om dokumentation saknas
-* Kansliet mailet styrelsen en rekommendation att godkänna föreningar när allt dokumentation finns på plats
-* Kansliet lägger i att beslut måste fattas av styrelsen i att göra listan
-* Styrelse fattar beslut
-* Att göra listan uppdateras
-
+[Här](./medlemsforteckning.md) finns rutin för hantering av medlemansökan
 
 # Lathundar för GF och föreningar
 
