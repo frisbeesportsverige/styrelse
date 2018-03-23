@@ -4,6 +4,19 @@
 
 Ny förening ansöker via IdrottOnline, RF behandlar och sedan går ansökan till förbundskansliet som i sin tur skickar vidare till grenförbund som bifaller/kommenterar/avslår och därefter till FS som fattar slutligt beslut som protokollförs.
 
+Ny förening ansöker via IdrottOnline, RF behandlar, ansökan går sedan till förbundskansliet som i sin tur skickar vidare till grenförbund som bifaller/kommenterar/avslår, därefter går ansökan till FS som fattar slutligt beslut som protokollförs.
+
+Arbetsgången gällande dokumentation och FS-beslut är följande:
+
+* Kansliet sparar underlaget i GD
+* Kansliet granskar dokumentationen
+* Kansliet begär kompletteringar från förening om någon dokumentation saknas
+* Kansliet mailar FS en rekommendation att godkänna förening när all dokumentation finns på plats
+* Kansliet lägger till att beslut behöver fattas av FS i att göra-listan
+* FS fattar beslut som dokumenteras i (nästkommande) protokoll
+* Kansliet uppdaterar att göra-listan
+* Kansliet uppdaterar SFF medlemsförteckning, meddelar förening och GF, samt lägger upp nyhet på hemsidan.
+
 
 ## Rutin för årlig uppföljning av medlemsförteckning och föreningsverksamhet
 
