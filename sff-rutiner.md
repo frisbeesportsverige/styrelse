@@ -86,7 +86,13 @@ Ett bra tillfälle att göra detta är samtidigt som medlemsregisret uppdateras.
 
 ## Föreningsansökan
 
-Går ut mail från Idrottonline när en förening ansöker om medlemskan eller vill ändra sitt medlemskap. Ska gå till styrelsen och beörda GF (oklart om det går att styra detta på GF i IO).
+Då en förening ansöker om medlemskap i SFF är gången följande:
+
+* Underlaget sparas i GD
+* Kansliet granskar dokumentationen
+* Kansliet begär kompletteringar från föreningar om dokumentation saknas
+* Kansliet mailet styrelsen en rekommendation att godkänna föreningar när allt dokumentation finns på plats
+* Styrelse fattar beslut
 
 
 # Lathundar för GF och föreningar
