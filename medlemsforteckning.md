@@ -1,5 +1,16 @@
 # Rutiner SFF medlemsförteckning from 2017
 
+## Medlemsförteckning på Google Drive
+
+Kansliet ansvarar för att det alltid finns en uppdaterad lista med kontaktuppgifter till SFF:s föreningar på GD i [denna katalog](https://drive.google.com/drive/u/2/folders/1YkchsKlP6WNppPOP6Ho69oRH1ITTREJH)
+
+Listan med kontaktuppfigter kan t.ex. skapas i IdrottOnline med funtionen 'Exportera Organisationsinfo', se figur nedan.
+
+![io_exportera_foreningar.png](./media/io_exportera_foreningar.png "io_exportera_foreningar")
+
+Listan ska uppdaetras då föreningar avförs från medlemsförteckningen, då föreningsansökningar godkänns och första arbetsdagen i varje kalendermånad.
+
+
 ## Rutin för ny förening
 
 Ny förening ansöker via IdrottOnline, RF behandlar, ansökan går sedan till förbundskansliet som i sin tur skickar vidare till grenförbund som bifaller/kommenterar/avslår, därefter går ansökan till FS som fattar slutligt beslut som protokollförs.
