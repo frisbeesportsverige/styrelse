@@ -4,9 +4,11 @@
 
 Kansliet ansvarar för att det alltid finns en uppdaterad lista med kontaktuppgifter till SFF:s föreningar på GD i [denna katalog](https://drive.google.com/drive/u/2/folders/1YkchsKlP6WNppPOP6Ho69oRH1ITTREJH)
 
-Listan med kontaktuppfigter kan t.ex. skapas i IdrottOnline med funtionen 'Exportera Organisationsinfo', se figur nedan.
+Listan med kontaktuppfigter kan t.ex. skapas i IdrottOnline med funtionen 'Exportera Organisationsinfo', se figurer nedan.
 
-![io_exportera_foreningar.png](./media/io_exportera_foreningar.png "io_exportera_foreningar")
+![io_exportera_foreningar](./media/io_exportera_foreningar.png "io exportera foreningar")
+
+![io_exportera_foreningar_steg2](./media/io_exportera_foreningar2.png "io exportera foreningar steg 2")
 
 Listan ska uppdaetras då föreningar avförs från medlemsförteckningen, då föreningsansökningar godkänns och första arbetsdagen i varje kalendermånad.
 
