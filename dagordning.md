@@ -351,7 +351,7 @@ Förslag på datum:
 1. Val av mötesekreterare
 1. Val av justeringsman
 1. Godkännande av dagordning
-1. Uteslutning av klubbar
+1. Klubbar aktuella för uteslutning
 1. Återbetalning till RF av utvecklingsstöd
 1. Övrigt
 1. Mötets avslutande
